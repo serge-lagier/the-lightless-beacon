@@ -111,3 +111,16 @@ La barque des enquêteurs heurte quelque chose de dur dans les eaux sombres. Du 
 * Si les deux tests sont réussis, le joueur reçoit alors toutes les informations ci-dessus.
 
 Un jet réussi de **Piloter (bateau)** est nécessaire pour déloger la barque de l'épave sans qu'elle ne s'écrase sur les rochers alentour. Si ce jet est raté, ou si un redoublement échoue, la barque est percée pendant les tentatives pour la libérer et commence à couler, obligeant tous ses occupants à nager jusqu'au rivage. Le Gardien peut demander des jets de **Nager** s'il le souhaite, mais, comme la plupart des enquêteurs ont tendance à négliger cette compétence, il y a un risque qu'un ou plusieurs enquêteurs se noient avant d'atteindre l'île. Nous suggérons qu'en raison de la proximité de l'île, après avoir beaucoup barboté, les enquêteurs arrivent à terre, froids, mouillés, battus et meurtris par leur épreuve - ainsi, si un jet de Natation est effectué, ils arrivent plus vite sur l'île, tandis qu'un échec signifie qu'ils sont ballotés dans l'eau mais qu'ils se retrouvent rapidement sur l'île. Pendant toutes ces péripéties, les investigateurs peuvent voir clairement les lumières à la base de la maison de phare.
+
+UN VERTIGE SINISTRE DANS LA NUIT
+Une petite jetée et un débarcadère se trouvent sur la rive nord de l'île Beacon. Qu'ils prennent pied à la rame ou à la nage, les investigateurs peuvent y parvenir sans difficultés dans la pénombre - c'est de loin le côté de l'île le plus sûr pour débarquer. La jetée mène à un étroit sentier de terre
+bordé par de hautes herbes. Un faible bruit de machine s'entend non loin de là. Une réussite en Mécanique ou Électricité indique que le bruit provient d'un générateur électrique.
+	Une courte promenade le long du sentier amène les investigateurs à la
+l'entrée de la maison de phare. La porte d'entrée est légèrement entrouverte, et
+on peut voir une lueur constante venant de l'intérieur. Il y a une fenêtre de part et d'autre de la porte; de fins rideaux sont tirés sur les deux,
+mais une lumière chaleureuse et accueillante brille à travers ceux
+de gauche. Le chemin se poursuit jusqu'à l'arrière du phare.
+	Un jet réussi en Trouver Objet caché révèle de petites, boueuses
+empreintes de pas d'animaux devant la porte mais, sous celles-ci, se trouvent des empreintes de bottes distinctes, partiellement obscurcies par les traces de pas qui se superposent. Un jet de Naturalisme ou Science (Biologie ou Zoologie)permet de conclure que les petites empreintes de pas ressemblent à celles d'un canard commun; un succès extrême suggère qu'il y a quelque chose d'inhabituel dans ces empreintes, comme si elles provenaient d'une espèce encore non répertoriée.
+Alors que les investigateurs examinent les empreintes, le grondement de l'océan
+s'intensifie sous les impulsions de la tempête dont les marins les avaient avertis. La pluie commence à s'abattre. Le pistage des empreintes ne pourra pas être remis à plus tard, car la pluie les effacera et elles pourraient alors être définitivement perdues.
