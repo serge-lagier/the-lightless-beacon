@@ -15,6 +15,20 @@
 
 ## Tableau d'intervention
 
-|Chapitre        |Intervenant                    |État                         |
-|----------------|-------------------------------|-----------------------------|
-|Introduction    |Namour                         |Fait
+|Chapitre            |Intervenant                    |État                         |
+|--------------------|-------------------------------|-----------------------------|
+|Introduction        |Namour                         |Fait
+|Running the game    |Namour                         |Fait
+|Scenario overview   |Namour                         |Fait
+|Background          |Namour                         |Fait
+|Spending Luck       |Laurendi                       |En cours
+|Setting Up          |Namour                         |Fait
+|Start: Choppy Waters|Namour                         |Fait
+|Dead Beacon         |                               |
+|Following Footprints|                               |
+|Building Tension    |                               |
+|Insane Investigator |                               |
+|Lighthouse Cottage  |                               |
+|Amphibious Assault  |                               |
+|Conclusion          |                               |
+|Monster Profiles    |                               |
