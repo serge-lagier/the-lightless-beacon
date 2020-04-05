@@ -74,8 +74,8 @@ Un peu sans but dans ses jeunes années, l’artiste a maintenant trouvé sa vé
 
 #### Moins de quatre joueurs ?
 
-Si vous n'avez que deux joueurs et qu'ils souhaitent utiliser les personnages prétirés, alors nous leur recommandons de choisir l'Antiquaire et l'Agent Fédéral. Si vous avez trois joueurs, ajoutez le Biologiste marin. Bien que ce scénario ne soit pas conçu pour un seul joueur, si vous n'en avez qu'un, nous suggérons qu'il choisisse l'Agent Fédéral, mais qu'il augmente ses compétences d'Estimation et de Piloter (de bateau) à 50 %.
-Une autre option pour les joueurs solitaires est de leur faire contrôler à la fois le Marchand d'Antiquités et l'Agent du Fédéral.
+Si vous n’avez que deux joueurs et qu’ils souhaitent utiliser les personnages prétirés, alors nous leur recommandons de choisir l’Antiquaire et l’Agent fédéral. Si vous avez trois joueurs, ajoutez le Biologiste marin. Bien que ce scénario ne soit pas conçu pour un seul joueur, si vous n’en avez qu’un, nous suggérons qu’il choisisse l’Agent fédéral, mais qu’il augmente ses compétences d’Estimation et de Pilotage (de bateau) à 50 %.
+Une autre option pour les joueurs solitaires est de leur faire contrôler à la fois l’antiquaire et l’Agent fédéral.
 
 #### Investigateurs supplémentaires ou alternatifs
 

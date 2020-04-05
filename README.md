@@ -15,21 +15,21 @@
 
 ## Tableau d'intervention
 
-|Chapitre            |Intervenant                    |État                         |
-|--------------------|-------------------------------|-----------------------------|
-|Introduction         |Namour                         |Fait
-|Running the game     |Namour                         |Fait
-|Scenario overview    |Namour                         |Fait
-|Background           |Namour                         |Fait
-|Spending Luck        |Laurendi                       |En cours
-|Setting Up           |Namour                         |Fait
-|Start: Choppy Waters |Namour                         |Fait
-|Dead Beacon          |Namour                         |En cours
-|Following Footprints |                               |
-|Building Tension     |                               |
-|Insane Investigator  |                               |
-|Lighthouse Cottage   |                               |
-|Amphibious Assault   |                               |
-|Conclusion           |                               |
-|Monster Profiles     |                               |
-|Monstres & persos COC|Gobo                           |En cours
+| Chapitre              | Intervenant                   | État                         |
+|-----------------------|-------------------------------|------------------------------|
+| Introduction          | Namour / Thibault             | Fait
+| Running the game      | Namour / Thibault             | Fait
+| Scenario overview     | Namour / Thibault             | Relecture en cours
+| Background            | Namour                        | Fait
+| Spending Luck         | Laurendi                      | En cours
+| Setting Up            | Namour                        | Fait
+| Start: Choppy Waters  | Namour                        | Fait
+| Dead Beacon           | Namour                        | Fait
+| Following Footprints  |                               |
+| Building Tension      |                               |
+| Insane Investigator   |                               |
+| Lighthouse Cottage    |                               |
+| Amphibious Assault    |                               |
+| Conclusion            |                               |
+| Monster Profiles      |                               |
+| Monstres & persos COC | Gobo                          | En cours
