@@ -104,10 +104,10 @@ Une fois que tout cela est fait, demandez aux joueurs de présenter brièvement 
 
 ## (...Action!)Extérieur nuit : Eaux agitées
 
-La barque des enquêteurs heurte quelque chose de dur dans les eaux sombres. Du métal tordu s'est logé sur un banc de sable voisin, tandis que d'autres se cachent juste sous la surface. Demandez un jet combiné **Connaissance** et Trouver **objets Cachés**.
+La barque des enquêteurs heurte quelque chose de dur dans les eaux sombres. Du métal tordu s'est logé sur un banc de sable voisin, tandis que d'autres se cachent juste sous la surface. Demandez un jet combiné **Connaissance** et **Trouver Objets Cachés**.
 
-* Si le jet de CONssce est réussi, cela révêle que le métal est peut-être la partie entre deux eaux d'un navire, bien que l'investigateur ne se souvienne pas avoir entendu parler d'une épave dans le coin depuis un certain temps.
-* Si le jet de T.O.C. est réussi, il révèle qu'il n'y a pas de marques d'identification sur l'épave, et à en juger par le nombre relativement faible de bernacles et l'absence générale de détérioration, il n'est évidemment pas là depuis très longtemps.
+* Si le jet de **Connaissance** est réussi, cela révêle que le métal est peut-être la partie entre deux eaux d'un navire, bien que l'investigateur ne se souvienne pas avoir entendu parler d'une épave dans le coin depuis un certain temps.
+* Si le jet de **Trouver Objets Cachés** est réussi, il révèle qu'il n'y a pas de marques d'identification sur l'épave, et à en juger par le nombre relativement faible de bernacles et l'absence générale de détérioration, il n'est évidemment pas là depuis très longtemps.
 * Si les deux tests sont réussis, le joueur reçoit alors toutes les informations ci-dessus.
 
 Un jet réussi de **Piloter (bateau)** est nécessaire pour déloger la barque de l'épave sans qu'elle ne s'écrase sur les rochers alentour. Si ce jet est raté, ou si un redoublement échoue, la barque est percée pendant les tentatives pour la libérer et commence à couler, obligeant tous ses occupants à nager jusqu'au rivage. Le Gardien peut demander des jets de **Nager** s'il le souhaite, mais, comme la plupart des enquêteurs ont tendance à négliger cette compétence, il y a un risque qu'un ou plusieurs enquêteurs se noient avant d'atteindre l'île. Nous suggérons qu'en raison de la proximité de l'île, après avoir beaucoup barboté, les enquêteurs arrivent à terre, froids, mouillés, battus et meurtris par leur épreuve - ainsi, si un jet de Natation est effectué, ils arrivent plus vite sur l'île, tandis qu'un échec signifie qu'ils sont ballotés dans l'eau mais qu'ils se retrouvent rapidement sur l'île. Pendant toutes ces péripéties, les investigateurs peuvent voir clairement les lumières à la base de la maison de phare.
