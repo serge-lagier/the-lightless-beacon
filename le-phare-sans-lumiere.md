@@ -67,7 +67,7 @@ Le biologiste marin termine actuellement une thèse de recherche sur le fascinan
 
 ##### L'artiste
 
-Un peu sans but dans ses jeunes années, l’artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d’une tournée le long de la côte Est en quête d’inspiration pour ses peintures.
+Dans sa jeunesse, il sortait beaucoup et ne s’inquiètait pas de son avenir. L’artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d’une tournée le long de la côte Est en quête d’inspiration pour ses peintures.
 
 * **Traits :** flamboyant et légèrement excentrique, mais personne n’est fou.
 * **Accroche :** a l’intention de trouver quelque chose qui susciterait sa passion artistique. Mais il devra garder l’esprit ouvert : on ne sait jamais quand l’inspiration va frapper, ni où !
