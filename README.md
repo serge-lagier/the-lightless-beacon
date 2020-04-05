@@ -15,6 +15,6 @@
 
 ## Tableau d'intervention
 
-| Chapitre      |     Intervenant    |   État |
-| ------------- |: ----------------: | -----: |
-| Introduction  |        Namour      |  Fait  |
+|Chapitre        |Intervenant                    |État                         |
+|----------------|-------------------------------|-----------------------------|
+|Introduction    |Namour                         |Fait
