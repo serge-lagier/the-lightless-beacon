@@ -24,7 +24,7 @@
 |Spending Luck        |Laurendi                       |En cours
 |Setting Up           |Namour                         |Fait
 |Start: Choppy Waters |Namour                         |Fait
-|Dead Beacon          |                               |En cours
+|Dead Beacon          |Namour                         |En cours
 |Following Footprints |                               |
 |Building Tension     |                               |
 |Insane Investigator  |                               |
