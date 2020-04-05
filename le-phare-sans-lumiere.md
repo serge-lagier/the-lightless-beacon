@@ -49,28 +49,28 @@ Enfin, s’ils utilisent les prétirés, les joueurs doivent déterminer la vale
 Ancien criminel, l’antiquaire a tourné la page après avoir été mêlé à des affaires douteuses qui ont failli le faire arrêter et emprisonner il y a quelques années. Il a récemment reçu une lettre d’un ancien complice, George Cassidy, gardien de phare sur Beacon Island. Ce dernier lui demande s’il était toujours dans le commerce des objets étranges et exotiques.
 
 * **Traits :** méfiant, prudent et fidèle jusqu’à un certain point, il a beaucoup à perdre si quelqu’un d’autre découvre qui ils étaient auparavant.
-* **Accroche de jeu de rôle :** découvrir dans quel genre d’ennuis s’est mis Cassidy cette fois-ci et voir s’ils ne peuvent pas le tirer d’affaire. Encore une fois.
+* **Accroche :** découvrir dans quel genre d’ennuis s’est mis Cassidy cette fois-ci et voir s’ils ne peuvent pas le tirer d’affaire. Encore une fois.
 
 ##### L'agent fédéral
 
 Actuellement en mission dans le Massachusetts pour surveiller toute activité illégale sur les routes maritimes fréquentées tout le long de la côte Est, l’agent spécial du Bureau des Investigations se rend à Rockport pour recevoir un briefing d’un confrère, Warren Thomas, actuellement sous couverture en tant que gardien de phare sous le nom d’emprunt de Michael Turner sur Beacon Island.
 
 * **Traits :** un peu nerveux et vigilant. Il y a juste quelque chose dans cette affaire qui le rend nerveux.
-* **Accroche de jeu de rôle :** obtenir ce rapport de son collègue infiltré, dans l’espoir que cela suffise à se faire réaffecter dans un endroit moins effrayant.
+* **Accroche :** obtenir ce rapport de son collègue infiltré, dans l’espoir que cela suffise à se faire réaffecter dans un endroit moins effrayant.
 
 ##### Le biologiste marin
 
 Le biologiste marin termine actuellement une thèse de recherche sur le fascinant écosystème marin de Rockport. Il a juste besoin d’un peu plus de données avant de pouvoir la soumettre à l’université de Boston, d’où son voyage actuel.
 
 * **Traits :** charmant, mais déterminé à prouver qu’il est autre chose qu’un joli minois.
-* **Accroche de jeu de rôle :** pour terminer sa thèse et peut-être trouver des preuves d’une nouvelle espèce marine… à qui il pourra donner son nom !
+* **Accroche :** pour terminer sa thèse et peut-être trouver des preuves d’une nouvelle espèce marine… à qui il pourra donner son nom !
 
 ##### L'artiste
 
 Un peu sans but dans ses jeunes années, l’artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d’une tournée le long de la côte Est en quête d’inspiration pour ses peintures.
 
 * **Traits :** flamboyant et légèrement excentrique, mais personne n’est fou.
-* **Accroche de jeu de rôle :** a l’intention de trouver quelque chose qui susciterait sa passion artistique. Mais il devra garder l’esprit ouvert : on ne sait jamais quand l’inspiration va frapper, ni où !
+* **Accroche :** a l’intention de trouver quelque chose qui susciterait sa passion artistique. Mais il devra garder l’esprit ouvert : on ne sait jamais quand l’inspiration va frapper, ni où !
 
 #### Moins de quatre joueurs ?
 
