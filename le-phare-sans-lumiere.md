@@ -22,7 +22,7 @@ Assurez-vous d’imprimer les fiches des enquêteurs (à partir de la page x) av
 
 ## APERÇU DU SCÉNARIO
 
-Dans ce scénario, les enquêteurs jouent le rôle de malheureux passagers d'un navire en direction de Rockport, Massachusetts, le lundi 12 avril 1926, la nuit de la nouvelle lune. En raison d'une défaillance du phare de Beacon Island, leur navire s'échoue sur des rochers à proximité, obligeant les investigateurs àmonter à bord d'un petit canot de sauvetage et à se diriger vers Beacon Island pour se réfugier dans la tempête grandissante.Malheureusement, des dangers encore plus grands les attendent, puisque c'est une une « *mission de sauvetage* » par des hybrides de Profonds et leurs alliés démoniaques qui les attend. Les investigateurs survivront-ils pour raconter leurs découvertes ou succomberont-ils à la menace aquatique qui s'élève tout autour d'eux ?
+Dans ce scénario, les enquêteurs jouent le rôle de malheureux passagers d’un navire en direction de Rockport, Massachusetts, le lundi 12 avril 1926, la nuit de la nouvelle lune. En raison d’une défaillance du phare de Beacon Island, leur navire s’échoue sur des rochers à proximité, obligeant les investigateurs à monter à bord d’un petit canot de sauvetage et à se diriger vers Beacon Island pour se réfugier dans la tempête grandissante. Malheureusement, des dangers encore plus grands les attendent, car ils se retrouvent en plein milieu d’une mission de récupération menée par des Profonds hybrides et leurs alliés diaboliques. Les enquêteurs survivront-ils pour raconter leurs découvertes ou succomberont-ils à la menace aquatique qui s’élève tout autour d’eux ?
 
 ## STRUCTURE DU SCÉNARIO
 
