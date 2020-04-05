@@ -46,31 +46,31 @@ Enfin, s’ils utilisent les prétirés, les joueurs doivent déterminer la vale
 
 ##### L'antiquaire
 
-Ancien criminel, le Marchand d'antiquités a tourné la page après avoir été mêlé à des affaires douteuses qui ont failli le faire arrêter et emprisonner il y a quelques années. Il a récemment reçu une lettre d'un ancien complice, George Cassidy, gardien de phare sur l'île Beacon, lui demandant s'il était toujours dans le commerce des objets étranges et exotiques.
+Ancien criminel, l’antiquaire a tourné la page après avoir été mêlé à des affaires douteuses qui ont failli le faire arrêter et emprisonner il y a quelques années. Il a récemment reçu une lettre d’un ancien complice, George Cassidy, gardien de phare sur Beacon Island. Ce dernier lui demande s’il était toujours dans le commerce des objets étranges et exotiques.
 
-* **Traits :** fidèle jusqu'à un certain point. Méfiant et prudent aussi, il a beaucoup à perdre si quelqu'un d'autre découvre qui il était vraiment.
-* **Accroche de jeu de rôle :** pour découvrir dans quel genre d'ennuis Cassidy s'est mis cette fois-ci et voir s'il ne peut pas le sortir de ce mauvais pas. Encore une fois.
+* **Traits :** méfiant, prudent et fidèle jusqu’à un certain point, il a beaucoup à perdre si quelqu’un d’autre découvre qui ils étaient auparavant.
+* **Accroche de jeu de rôle :** découvrir dans quel genre d’ennuis s’est mis Cassidy cette fois-ci et voir s’ils ne peuvent pas le tirer d’affaire. Encore une fois.
 
-##### L'Agent Fédéral
+##### L'agent fédéral
 
-Actuellement en mission dans le Massachusetts pour surveiller toute activité illégale des routes maritimes fréquentées tout le long de la Côte Est, l'Agent spécial du Bureau des Investigations se rend à Rockport pour recevoir un briefing d'un confrère, Warren Thomas, actuellement sous couverture en tant que gardien de phare sous le nom d'emprunt de Michael Turner sur Beacon Island.
-	
-* **Traits :** un peu nerveux et vigilant. Il y a juste quelque chose dans cette mission qui le rend nerveux.
-* **Acroche de jeu de rôle :** obtenir ce rapport de son collègue infiltré, dans l'espoir que cela suffise à se faire réaffecter dans un endroit moins effrayant.
+Actuellement en mission dans le Massachusetts pour surveiller toute activité illégale sur les routes maritimes fréquentées tout le long de la côte Est, l’agent spécial du Bureau des Investigations se rend à Rockport pour recevoir un briefing d’un confrère, Warren Thomas, actuellement sous couverture en tant que gardien de phare sous le nom d’emprunt de Michael Turner sur Beacon Island.
+
+* **Traits :** un peu nerveux et vigilant. Il y a juste quelque chose dans cette affaire qui le rend nerveux.
+* **Accroche de jeu de rôle :** obtenir ce rapport de son collègue infiltré, dans l’espoir que cela suffise à se faire réaffecter dans un endroit moins effrayant.
 
 ##### Le biologiste marin
 
-Le biologiste marin termine actuellement une thèse de recherche sur le fascinant environnement marin de Rockport. Il a juste besoin d'un peu plus de données avant de pouvoir le soumettre à l'université de Boston, d'où son voyage actuel.
-	
-* **Traits :** charmant, mais déterminé à prouver qu'il est autrechose qu'un joli minois.
-* **Acroche de jeu de rôle :** pour terminer sa thèse/mémoire et peut-être trouver des preuves d'une nouvelle espèce marine – à qui il pourra donner son nom !
+Le biologiste marin termine actuellement une thèse de recherche sur le fascinant écosystème marin de Rockport. Il a juste besoin d’un peu plus de données avant de pouvoir la soumettre à l’université de Boston, d’où son voyage actuel.
+
+* **Traits :** charmant, mais déterminé à prouver qu’il est autre chose qu’un joli minois.
+* **Accroche de jeu de rôle :** pour terminer sa thèse et peut-être trouver des preuves d’une nouvelle espèce marine… à qui il pourra donner son nom !
 
 ##### L'artiste
 
-Un peu sans but dans ses jeunes années, l'artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d'un voyage le long de la Côte Est à la recherche d'inspiration pour sa peinture.
-	
-* **Traits :** Flamboyant et légèrement excentrique, mais personne n'est fou.
-* **Acroche de jeu de rôle :** a l'intention de trouver quelque chose qui suscite sa passion artistique. Mais il devra garder l'esprit ouvert : on ne sait jamais quand l'inspiration va frapper, ni d'où !
+Un peu sans but dans ses jeunes années, l’artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d’une tournée le long de la côte Est en quête d’inspiration pour ses peintures.
+
+* **Traits :** flamboyant et légèrement excentrique, mais personne n’est fou.
+* **Accroche de jeu de rôle :** a l’intention de trouver quelque chose qui susciterait sa passion artistique. Mais il devra garder l’esprit ouvert : on ne sait jamais quand l’inspiration va frapper, ni où !
 
 #### Moins de quatre joueurs ?
 
