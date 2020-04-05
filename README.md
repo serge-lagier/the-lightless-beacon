@@ -14,3 +14,7 @@
 * https://raw.githubusercontent.com/lraboteau/casus/master/cthulhu/le-phare-sans-lumiere.md
 
 ## Tableau d'intervention
+
+| Chapitre      |     Intervenant    |   État |
+| ------------- |: ----------------: | -----: |
+| Introduction  |        Namour      |  Fait  |
