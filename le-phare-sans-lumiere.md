@@ -40,9 +40,9 @@ Ce scénario vise à souligner l’importance de trouver des indices pour dévoi
 
 #### Quelques mots sur les investigateurs
 
-Quatre enquêteurs prétirés sont fournis pour être utilisés avec *La Phare sans lumière*. Chacun d'entre eux a une raison personnelle ou professionnelle d'être sur le bateau pour Rockport et, par conséquent, de se laisser entraîner dans les événements qui se déroulent sur l'île Beacon.
-Si les joueurs décident vraiment d'utiliser ces investigateurs plutôt que de créer les leurs (conseil du traducteur : incitez-les à les utiliser!), faites-leur lire attentivement leurs fiches de personnages avant le début du jeu afin qu'ils puissent utiliser les informations incluses pour guider leurs investigateurs dans le scénario. Chaque investigateur est présenté de manière neutre, ce qui signifie que les joueurs peuvent décider si leurs personnages sont masculins, féminins ou non binaires. Ils devront également trouver un nom pour leur personnage.
-Enfin, s'ils utilisent les prétirés, les joueurs doivent déterminer la valeur de Chance de ces investigateurs. Ils doivent lancer 3D6 et multiplier le résultat par 5. Ils doivent ensuite encercler le chiffre approprié dans la case "Chance" de leur feuille de personnage.
+Quatre enquêteurs prétirés sont fournis pour être utilisés avec *Le phare sans lumière*. Chacun d’entre eux a une raison personnelle ou professionnelle d’être sur le bateau pour Rockport et, par conséquent, de se laisser entraîner dans les événements qui se déroulent sur Beacon Island.
+Si les joueurs décident tout de même d’utiliser ces investigateurs plutôt que de créer les leurs, faites-leur lire attentivement leurs fiches de personnages avant le début de la partie afin qu’ils puissent utiliser les informations incluses pour guider leurs investigateurs dans le scénario. Chaque investigateur est présenté de manière neutre, ce qui signifie que les joueurs peuvent décider si leur personnage est masculin, féminin ou non binaire. Ils devront également leur trouver un nom.
+Enfin, s’ils utilisent les prétirés, les joueurs doivent déterminer la valeur de Chance de ces investigateurs. Ils doivent lancer 3D6 et multiplier le résultat par 5. Ils doivent ensuite encercler le chiffre approprié dans la case « Chance » de leur fiche de personnage.
 
 ##### L'antiquaire
 
