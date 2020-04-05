@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-Bienvenue dans *Le phare sans lumière*, le scénario de *L’Appel de Cthulhu* de cette année pour la première journée Greg Stafford — une journée pour rendre hommage à la vie et l’œuvre de Greg et du symposium qu’il a fondé en 1975. Nous espérons que vous pourrez rassembler des amis et profiter ensemble de ce scénario.
+Bienvenue dans *Le phare sans lumière*, le scénario de *L’Appel de Cthulhu* de cette année pour la première journée Greg Stafford — une journée pour rendre hommage à la vie et l’œuvre de Greg et de Chaosium qu’il a fondé en 1975. Nous espérons que vous pourrez rassembler des amis et profiter ensemble de ce scénario.
 
 *Le phare sans lumière* se déroule sur Beacon Island, près de Rockport, dans le Massachusetts, le 12 avril 1926. Il est conçu comme un court scénario d’introduction pour les Gardiens novices, les nouveaux joueurs, ou les deux ! Les joueurs et les Gardiens expérimentés devraient également y trouver leur compte. Conçu pour être joué en une heure seulement, ce scénario est idéal pour ceux qui n’ont pas le temps de jouer plus longtemps ou qui veulent simplement prendre confiance en eux avec le jeu de rôle *L’Appel de Cthulhu*.
 
