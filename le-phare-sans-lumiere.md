@@ -37,3 +37,54 @@ Si vous avez l'intention de jouer « *Le phare sans lumière* » en une heure, v
 Au début du scénario, les joueurs ont la possibilité de se séparer, un groupe fouillant l'île tandis que l'autre entre dans le phare. Si cela se produit, le scénario prendra plus d'une heure à se dérouler (en raison d'un temps de mastérisation consacré à chaque groupe). Les enquêteurs peuvent être réunis plus tard grâce à l'apparition des créatures qui errent sur l'île à la recherche de l'or d'Innsmouth (Un assaut amphibie, page x). Ils peuvent aussi faire face et affronter leurs agresseurs chacun de leur côté, selon le style de jeu que vous dirigez.
 
 Ce scénario vise à souligner l'importance de trouver des indices pour dévoiler la vérité sur ce qui s'est passé sur l'île Beacon. Il sert également à souligner les dangers du combat dans un jeu typique de l'Appel.
+
+QUELQUES MOTS SUR LES INVESTIGATEURS
+Quatre enquêteurs prétirés sont fournis pour être utilisés avec La Phare sans lumière. Chacun d'entre eux a une raison personnelle ou professionnelle d'être sur le bateau pour Rockport et, par conséquent, de se laisser entraîner dans les événements qui se déroulent sur l'île Beacon.
+Si les joueurs décident vraiment d'utiliser ces investigateurs plutôt que de créer les leurs (conseil du traducteur : incitez-les à les utiliser!), faites-leur lire attentivement leurs fiches de personnages avant le début du jeu afin qu'ils puissent utiliser les informations incluses pour guider leurs investigateurs dans le scénario. Chaque investigateur est présenté de manière neutre, ce qui signifie que les joueurs peuvent décider si leurs personnages sont masculins, féminins ou non binaires. Ils devront également trouver un nom pour leur personnage.
+Enfin, s'ils utilisent les prétirés, les joueurs doivent déterminer la valeur de Chance de ces investigateurs. Ils doivent lancer 3D6 et multiplier le résultat par 5. Ils doivent ensuite encercler le chiffre approprié dans la case "Chance" de leur feuille de personnage.
+
+L'antiquaire
+Ancien criminel, le Marchand d'antiquités a tourné la page après avoir été mêlé à des affaires douteuses qui ont failli le faire arrêter et emprisonner il y a quelques années. Il a récemment reçu une lettre d'un ancien complice, George Cassidy, gardien de phare sur l'île Beacon, lui demandant s'il était toujours dans le commerce des objets étranges et exotiques.
+	
+	- Traits : fidèle jusqu'à un certain point. Méfiant et prudent aussi, il a beaucoup à perdre si quelqu'un d'autre découvre qui il était vraiment.
+	- Accroche de jeu de rôle : pour découvrir dans quel genre d'ennuis Cassidy s'est mis cette fois-ci et voir s'il ne peut pas le sortir de ce mauvais pas. Encore une fois.
+
+L'Agent Fédéral
+Actuellement en mission dans le Massachusetts pour surveiller toute activité illégale des routes maritimes fréquentées tout le long de la Côte Est, l'Agent spécial du Bureau des Investigations se rend à Rockport pour recevoir un briefing d'un confrère, Warren Thomas, actuellement sous couverture en tant que gardien de phare sous le nom d'emprunt de Michael Turner sur Beacon Island.
+	
+	- Traits : un peu nerveux et vigilant. Il y a juste quelque chose dans cette mission qui le rend nerveux.
+	- Acroche de jeu de rôle : obtenir ce rapport de son collègue infiltré, dans l'espoir que cela suffise à se faire réaffecter dans un endroit moins effrayant.
+
+Le biologiste marin
+Le biologiste marin termine actuellement une thèse de recherche sur le fascinant environnement marin de Rockport. Il a juste besoin d'un peu plus de données avant de pouvoir le soumettre à l'université de Boston, d'où son voyage actuel.
+	
+	- Traits : charmant, mais déterminé à prouver qu'il est autrechose qu'un joli minois.
+	- Accroche de jeu de rôle : pour terminer sa thèse/mémoire et peut-être trouver des preuves d'une nouvelle espèce marine – à qui il pourra donner son nom !
+
+L'artiste
+Un peu sans but dans ses jeunes années, l'artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d'un voyage le long de la Côte Est à la recherche d'inspiration pour sa peinture.
+	
+	- Traits : Flamboyant et légèrement excentrique, mais personne n'est fou.
+	- Accroche de jeu de rôle : a l'intention de trouver quelque chose qui suscite sa passion artistique. Mais il devra garder l'esprit ouvert : on ne sait jamais quand l'inspiration va frapper, ni d'où !
+
+Moins de quatre joueurs ?
+
+Si vous n'avez que deux joueurs et qu'ils souhaitent utiliser les personnages prétirés, alors nous leur recommandons de choisir l'Antiquaire et l'Agent Fédéral. Si vous avez trois joueurs, ajoutez le Biologiste marin. Bien que ce scénario ne soit pas conçu pour un seul joueur, si vous n'en avez qu'un, nous suggérons qu'il choisisse l'Agent Fédéral, mais qu'il augmente ses compétences d'Estimation et de Piloter (de bateau) à 50 %.
+Une autre option pour les joueurs solitaires est de leur faire contrôler à la fois le Marchand d'Antiquités et l'Agent du Fédéral.
+
+Investigateurs supplémentaires ou alternatifs
+Si votre groupe compte plus de quatre joueurs, vous devrez alors créer pour eux des investigateurs supplémentaires. Comme les personnages prétirés voyagent tous sur le bateau pour Rockport, les autres personnages-joueur peuvent être des compagnons de voyage ou même des membres de l'équipage du bateau. Cela vous permet de choisir parmi un large éventail de professions, bien qu'un capitaine de navire ou un ingénieur de navire donne au personnage un bon éventail de compétences, notamment en matière de combat, de navigation, de matelotage et de capacité à réparer les choses. Qui sait, ils peuvent même avoir de sombres secrets liés à leur vie de marin qui les ont poussés à choisir leur emploi actuel - ou même à avoir eu d'étranges rencontres en mer avec des créatures venues du fond l'eau...
+	Si votre groupe préfère créer ses propres enquêteurs, il suffit à chacun d'avoir une raison d'être sur le bateau pour Rockport. Il serait bon qu'au moins l'un d'entre eux ait un lien avec l'un des employés du phare de Beacon Island - un correspondant ou un parent peut-être, ou même un gardien de phare remplaçant qui viendrait à Rockport en raison des rotations mises en place pour relever l'équipe actuelle de personnel. Et, si vos joueurs ont déjà des enquêteurs, il vous suffit de les faire embarquer à bord du SS Essex County le 12 avril 1926 pour qu'ils soient prêts à affronter les rochers du Promontoire/isthme de la Folie (Folly Point).
+
+	Les compétences utiles que les investigateurs nouvellement créés ou existants doivent posséder pour ce scénario sont notamment les suivantes : Estimation, Arts & métiers (spécialité Peinture et décoration), Électricité, Combat à distance(Armes de poing), Premiers soins, Écouter, Crochetage, Mécanique, Médecine, Science (Sciences naturelles, Biologie ou Zoologie), Occultisme, Piloter (Bateaux), Trouver Objets Cachés, Discrétion et Pister.
+
+
+CONTEXTE
+
+Le 12 février 1926, une importante tempête ravage Folly Point, près de Rockport, dans le Massachusetts. Un navire battant pavillon de complaisance(sans immatriculation?), à destination d'Innsmouth et transportant de l'or du culte de Dagon dans les mers du Sud, se servait du phare de Beacon Island comme guide, afin d'éviter les routes commerciales habituelles et de ne pas être repéré par les yeux indiscrets. Malheureusement, la lampe du phare a mal fonctionné, ce qui a fait que le navire s'est dirigé vers les rochers proches, déchirant sa coque et provoquant une petite mais dévastatrice explosion dans la chaudière du navire, après quoi le navire a coulé, laissant à peine une trace pour marquer son passage.
+Depuis cet événement, l'Ordre Ésotérique de Dagon qui se trouve à Innsmouth a entrepris de remettre discrètement la main sur l'or chargé dans le navire - une tâche difficile, compte tenu de la proximité de Beacon Island et des voies maritimes fréquentées vers et depuis Rockport. Malgré un grand succés, certaines pièces leur ont échappé, englouties le long de la côte continentale et au large de la côte nord de l'île Beacon. George Cassidy, gardien de phare sur l'île, est tombé sur l'une de ces pièces le lendemain du naufrage du navire et a, au cours du dernier mois environ, collecté une bonne quantité d'or à Innsmouth grâce à minutieux et résolu passage de la plage au peigne fin. Il a également tenté de découvrir le prix qu'elles atteindront sur le marché des antiquités, dans l'espoir de pouvoir convertir ces étranges pièces en un pécule substantiel pour lui-même.
+Jusqu'à présent, les sectateurs ont laissé les occupants du phare tranquilles, croyant à tort que personne n'avait trouvé de pièces manquantes sur l'île. Bien qu'ils reprochent aux gardiens du phare d'avoir tardé dans la réparation de la lampe responsable du naufrage de leur navire, ils ne voyaient pas l'intérêt de chercher à se venger de leurs pertes, car le phare était trop précieux pour leurs efforts de contrebande pour risquer de mettre en péril son fonctionnement quotidien. 
+Les choses ont changé lorsque les sectateurs ont reçu une lettre de Cassidy demandant de l'aide pour identifier les pièces d'or et évaluer leur valeur. Les sectateurs ont décidé de récupérer les pièces manquantes, car les recherches persistantes de Cassidy finiraient par attirer sans aucun doute une attention indésirable à plus ou moins long terme. Ils ont planifié leur infiltration de l'île au 12 avril, la nuit de la nouvelle lune, pour se donner l'avantage de l'obscurité pendant l'assaut.
+Après une brève reconnaissance, deux hybrides Profonds affectés à cette tâche ont capturé l'un des gardiens de phare camarade de Cassidy, Samuel Smith, alors qu'il fuyait l'île après une étrange observation de trop. Ils ont interrogé puis assassiné le malheureux Smith, qui avait, selon eux, confirmé leurs premières constatations selon lesquelles les deux autres occupants de l'île ne devraient pas poser trop de problèmes. Ainsi, le soir du 12 avril 1926, l'un des hybrides Profonds a conduit un groupe de dangereuses créatures amphibies, connues sous le nom de younglings, à se débarrasser de l'équipe du phare restante et à retrouver la collection de pièces de Cassidy. L'autre hybride est resté à Folly Point, prêt à appeler des renforts, si nécessaire.
+Une fois sur l'île, le groupe de jeunes hybrides a poursuivi et assassiné l'agent sous couverture et gardien de phare Michael Turner, tandis que le grand hybride et un autre groupe de younglings s'en prenaient à Cassidy. Cassidy a mené un combat courageux dans la salle de la lanterne du phare, tuant avec succès deux jeunes et l'hybride profond, mais perdant ainsi la vie. Pendant le combat, une balle perdue a détruit la lentille et l'ampoule du phare, plongeant les mers environnantes dans l'obscurité.
+ Les jeunes, privés leur chef, parcourent l'île à la recherche des pièces de monnaie, sans avoir l'idée de retourner à Folly Point.
