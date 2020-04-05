@@ -1,2 +1,1 @@
-# the-lightless-beacon
-The Lightless Beacon - Call of Cthulhu
+# The Lightless Beacon - Call of Cthulhu
