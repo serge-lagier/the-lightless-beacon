@@ -1,0 +1,418 @@
+THE
+LIGHTLESS BEACON
+When the lights went out
+
+INTRODUCTION
+
+Welcome to The Lightless Beacon, this year’s Call of Cthulhu scenario for the first Greg Stafford Day—a day to celebrate the life and works of Greg and The Chaosium he founded way back in 1975. We hope you’ll be able to gather some friends and enjoy this scenario together.
+The Lightless Beacon is set on Beacon Island, near Rockport, Massachusetts, on April 12th, 1926. It is intended as a short introductory scenario for novice Keepers, new players, or both! Experienced players and Keepers should also find something to enjoy here, too. Designed to be run in as little as one hour, this game is ideal for those who don’t have the time for a longer game session, or are just building up their confidence with the Call of Cthulhu RPG. While The Lightless Beacon is presented as a standalone adventure and comes with four pre-generated investigators (enabling you to dive right in), it could also form the start of a new campaign, as it throws together complete strangers and plunges them into the world of the Cthulhu Mythos before they have a chance to catch their breath. There’s a mystery to solve, a threat to overcome, and a glimpse at the true horrors lurking in the darkness: all key themes of a good Call of Cthulhu adventure!
+
+RUNNING THE GAME
+
+Before you run The Lightless Beacon, you’ll need to familiarize yourself with the Call of Cthulhu 7th Edition rules: either those found in the core Call of Cthulhu: Keeper Rulebook or the Call of Cthulhu Starter Set.
+
+Opposite: The Lightless Beacon
+
+Once you’re happy with the rules, you, as the Keeper, need to make sure you’ve read through this scenario and made any notes on timing and specific situations you need to help you run the game as smoothly as possible. This may be as simple as a few bullet points on scratch paper covering key events, or it may be a little more detailed—you know what works best for you. And if you’re just starting out, perhaps try different things to see what most suits your style of Keeping.
+Scenario Structure (page 6) gives suggested timings for running The Lightless Beacon as a one-hour game for four players. Suggestions are also given in About the Investigators (page 6) for which pre-generated investigators to use if you have fewer than four players. Two is the minimum recommended number of players for The Lightless Beacon.
+The game can easily accommodate more than four players if you need it to, although this will extend the running time to possibly two or three hours.
+If your players want to create their own investigators, that’s great, too! Make sure you familiarize yourself with the types of skills they’ll need to get the most out of this scenario and take a look at the pre-generated investigators’ backgrounds for hints on how to tie newly created investigators into the story. Giving everyone’s character a reason to be where they are at the start of the scenario means the players are much more likely to be motivated and get involved in the plot and, hopefully, enjoy themselves.
+Make sure you print out the investigator sheets (page 30 onwards) before you begin, and let people choose who they want to play—this will also help them engage with the story. Other than that, all you need are some dice, some pencils, and some scratch paper, and you’re ready to go!
+
+SCENARIO OVERVIEW
+
+• Epilogue: the scenario ends with a short epilogue, and then the Keeper might answer any remaining questions the players may have.
+
+In this scenario, investigators play the roles of unfortunate passengers on a ship heading for Rockport, Massachusetts, on Monday, April 12th, 1926, the night of the new moon. Due to a malfunction at the lighthouse on Beacon Island, their ship founders on nearby rocks, forcing the investigators to take to a small lifeboat and head to Beacon Island for refuge in the growing storm.
+Unfortunately, even greater dangers await them, as they stumble into a retrieval mission by deep one hybrids and their diabolical allies. Will the investigators survive to tell the tale of their findings or will they succumb to the watery threat that rises all around them?
+
+If you are running The Lightless Beacon as a one-hour scenario, it’s important to make sure each segment is played closely to its allocated timings. Be sure to pace the scenario accordingly, and guide players to key points or objectives if necessary. Also try to make sure each player is given an equal amount of attention so that each investigator has their time in the spotlight.
+Early in the scenario, the players have the option to split the party, with one group searching the island while the others enter the lighthouse. If this does happen, the scenario will take longer than one hour to run. The investigators can be reunited later thanks to the appearance of the fish-creatures wandering the island searching for their missing Innsmouth gold (An Amphibious Assault, page 20). Or, they can stand and face their attackers individually, depending on what style
+of game you’re running.
+This scenario is intended to outline the importance of finding clues to unveil the truth behind what’s occurred on Beacon Island. It also serves to underline the dangers of combat in a typical Call of Cthulhu game.
+
+SCENARIO STRUCTURE
+
+If you are aiming to run The Lightless Beacon as a one-hour scenario, then suggested timings are given below. If you have more than four players taking part, or your players wish to create their own investigators (rather than use the
+pre-generated characters provided), or if you would like to run a longer game, then each section is likely to take at least double the time mentioned here—perhaps more.
+
+About the Investigators
+
+• Set-Up: the Keeper briefly describes the scenario’s premise (Setting Up, page 9) and the pre-generated investigators on offer (or the most suitable types if creating new characters). If there are new players at the table, then the Keeper may also need to give a brief outline of the Call of Cthulhu rules they’ll be using to run the game, and if they’re using the optional Spending Luck rules (Call of Cthulhu: Keeper Rulebook, page 99, or the Introducing Spending Luck box on page 7). Players select, or create, their investigators and briefly introduce them to everyone.
+• Start: Choppy Waters: (5–10 minutes in.) After their ship founders, the investigators pilot a small rowboat through choppy waters to the lighthouse stationed on Beacon Island. They may uncover part of a sunken vessel beneath the waters, once destined for the small town of Innsmouth.
+• Dead Beacon: (10–40 minutes in.) The investigators explore the island. They may decide to search the island itself or to enter the lighthouse. Either search brings the discovery of a dead body and may lead to finding strange deceased amphibious creatures as well. The reason for the murders may be uncovered when investigating notes and letters left in the lighthouse’s study.
+• An Amphibious Assault: (40–55 minutes in.) The investigators are attacked by strange amphibious creatures, intent on recovering their missing coins. Help may, or may not, arrive, depending on the investigators’ previous actions.
+
+Four pre-generated investigators are provided for use with The Lightless Beacon. Each of them has a personal or professional reason to be on the boat to Rockport and, as a result, get caught up in the events taking place on Beacon Island. If the players decide they do want to use these investigators, rather than create their own, have them read over their investigator sheets carefully before the game begins so that they can use the information included to help guide their investigators through the scenario. Each investigator is presented as gender-neutral, meaning the players get to decide whether their characters are male, female, or nonbinary. They’ll also have to think of a name for their character.
+Finally, if using the pre-generated investigators, the players need to determine those investigators’ Luck values. Have them roll 3D6 and multiply the result by 5. They should then circle the appropriate number in the Luck box on their investigator sheet.
+The Antiques Dealer A former criminal, the Antiques Dealer turned over a new leaf after a close shave almost saw them arrested and imprisoned a few years ago. They recently received a letter from an old partner in crime, George Cassidy, a lighthouse keeper on Beacon Island, asking them if they were still in the business of fencing strange and exotic goods.
+
+THE LIGHTLESS BEACON
+• Traits: loyal—to a point. Suspicious and cautious, too—they have a lot to lose if anyone else finds out who they used to be.
+• Roleplaying hooks: to find out what sort of trouble Cassidy’s gotten himself into this time and see if they can’t straighten him out. Again.
+
+INTRODUCING SPENDING LUCK
+If you’re running The Lightless Beacon with the Call of Cthulhu Starter Set, then you might not be aware of the optional Spending Luck rules (Call of Cthulhu: Keeper Rulebook, page 99). These are a fun addition to the streamlined rules you’ve been using, and we’ve included a brief summary of them here in case you’d like to use them in your game—we recommend you do, as they’re very useful when dealing with poor dice rolls and helping to keep the plot moving forward—really handy if you’re running a short game.
+If you do decide to use these rules, the players don’t just get to roll their Luck—they can now also spend their Luck “points” to adjust dice rolls. Usually, they’ll do this to change a failure into a success, but they can also use those Luck
+points to alter the degree of success if they need to—from a Regular to a Hard success, or from a Hard to an Extreme success (this can be especially useful in combat situations.) To adjust a skill roll (but not a Sanity roll or a Luck roll), the
+player “burns” Luck points, spending the amount necessary to turn a failure into a success, or an increased level of success.
+For example, if you have Spot Hidden 40% but rolled 50 (a failure), you could spend 10 Luck points to adjust the roll to 40, making it a success. That’s a lot of Luck to burn in one go, depending on your Luck score, but in some situations, it may be wise to do so, say to uncover a clue or to avoid taking a beating. The only limit on how much Luck a player can spend is the amount of Luck their investigator currently has left. But spending Luck is a double-edged sword: once you’ve spent it, it’s gone and, if you have to make a Luck roll later in the scenario, you use your current (lower) value for it, not your starting one! There are ways to refresh Luck in an ongoing campaign, but they’re not needed for this scenario.
+Be kind to your players, though: don’t encourage them to spend Luck points on unimportant rolls—let them keep their Luck points for when they really need them. Luck points can’t be used to fix everything either, as they cannot be spent to adjust a pushed or fumbled roll, a weapon malfunction, damage rolls, Sanity rolls (or rolls to determine how much Sanity is lost), or—obviously—Luck rolls!
+
+The Bureau Agent
+Currently on assignment in Massachusetts to watch for any illegal activities along the popular east coast shipping routes, the Bureau Agent is heading to Rockport to receive a briefing from a fellow agent, Warren Thomas, currently undercover as lighthouse keeper Michael Turner on Beacon Island.
+• Traits: somewhat twitchy and watchful. There’s just something about this whole assignment that has them on edge.
+• Roleplaying hooks: to get that report from their undercover colleague, in the hope it’s enough to get them reassigned somewhere less creepy.
+
+The Marine Biologist
+The Marine Biologist is currently finishing up a research paper on Rockport’s fascinating marine environment. They just need a little more data before they can submit it to Boston University, hence their current trip.
+• Traits: charming, but determined to prove they are more than just a pretty face.
+• Roleplaying hooks: to get that paper finished, and perhaps find evidence of a new marine species—one they can name after themselves!
+
+The Artist
+Somewhat of a gadabout in their younger years, the Artist has now found their true calling and is traveling to Rockport as part of a tour along the Eastern Seaboard in search of inspiration for their paintings.
+• Traits: Flamboyant and slightly eccentric, but nobody’s fool.
+• Roleplaying hooks: to find something that arouses their artistic passions. But they’ll need to keep an open mind you never know when inspiration will strike, or from where!
+
+Fewer Than Four Players?
+
+If you only have two players and they would like to use the pre-generated investigators, then we recommend they choose the Antiques Dealer and the Bureau Agent. If you have three players, then add the Marine Biologist. While this scenario isn’t designed for a single player, if you do only have one, then we suggest they choose the Bureau Agent but increase both their Appraise and Pilot (Boat) skills to 50%.
+
+One other option for solo players is to have them control both the Antiques Dealer and the Bureau Agent.
+
+Additional or Alternate Investigators
+
+Useful skills for newly created and existing investigators to have for this scenario include: Appraise, Art/Craft (Painting or Sketching), Electrical Repair, Firearms (Handgun), First Aid, Listen, Locksmith, Mechanical Repair, Medicine, Natural World, Occult, Pilot (Boat), Spot Hidden, Stealth, and Track.
+
+Should your group have more than four players, then you will need to create additional investigators for them. As the pre-generated characters are all traveling on the boat to Rockport, any further player characters could be fellow passengers or even the ship’s crewmembers. This gives you a wide scope of occupations to choose from, although a Ship’s Captain or a Ship’s Engineer would give the character a good range of skills, including fighting, navigation, seamanship, and the ability to fix things. Who knows, they may even have some dark secrets related to their seafaring life that have driven them to take their current job—or even to have had strange encounters at sea with creatures from beneath the waves…
+If your group would rather create their own investigators, then all they need is a reason to be on the boat to Rockport. It would be good if at least one of them had some tie to one of the lighthouse staff on Beacon Island—a pen pal or relation perhaps, or even be a replacement lighthouse keeper coming in to Rockport to relieve the current staff as the shift rotation changes. And, if your players already have investigators, then all you need is to get them on board the SS Essex County ready for when it strikes the rocks off Folly
+
+Point on April 12th, 1926.
+
+BACKGROUND
+
+On February 12th, 1926, a great storm ravaged Folly Point, near Rockport, Massachusetts. An unmarked ship, bound for Innsmouth and carrying gold from cultists of Dagon in the South Seas, was using the Beacon Island lighthouse as its guide, so it could avoid the usual trade routes and remain undetected by prying eyes. Unfortunately, the lighthouse’s lamp malfunctioned, causing the ship to steer into the nearby rocks, tearing its hull wide open and causing a small but devastating explosion in the ship’s boiler, after which the ship sank, leaving barely a trace to mark its passing. Since this event, Innsmouth’s Esoteric Order of Dagon has attempted to discreetly retrieve their gold from theship—no easy task, given its proximity to both Beacon Island and the popular sea lanes to and from Rockport. Although
+
+SETTING UP
+
+They have been largely successful, some coins have escaped them, washing up at various sites along the coast on the mainland, and on the north shore of Beacon Island. George Cassidy, a lighthouse keeper on the island, stumbled across one of the coins the day after the ship sank and has, over the last month or so, collected quite a haul of Innsmouth gold through careful and determined beachcombing. He has also been attempting to discover what price they will fetch on the antiquities market, in hope that he can convert the strange coins into a substantial nest egg for himself.
+Up until now, the cultists have left the lighthouse occupants alone, mistakenly believing that no one had found any missing coins on the island. Although they blame the lighthouse keepers’ tardy repairs to the beacon for their ship being wrecked, they saw no point in seeking revenge for their losses as the lighthouse was too valuable to their smuggling efforts to risk interfering with its daily operation. Things changed when the cultists received a letter from Cassidy asking for help in identifying the gold coins and assessing their worth. The cultists decided to retrieve the missing coins, as Cassidy’s continued inquiries would undoubtedly draw unwanted attention before too long. They have timed their infiltration of the island to April 12th, the night of the new moon, to give themselves the advantage of the extra darkness during the assault.
+After a brief reconnaissance, the two deep one hybrids assigned to the task captured one of Cassidy’s fellow lighthouse keepers, Samuel Smith, as he fled the island after one strange sighting too many. They interrogated then murdered the unfortunate Smith, who had—so they thought—confirmed their initial findings that the island’s other two occupants shouldn’t be too much trouble to deal with. So, on the evening of April 12th, 1926, one of the deep one hybrids led a group of dangerous amphibious creatures, known as younglings, to dispose of the remaining lighthouse crew and track down Cassidy’s coin collection. The other hybrid remained at Folly Point, ready to call for back up, if
+needed.
+Once on the island, one group of younglings pursued and murdered undercover agent and lighthouse worker, Michael Turner, while the deep one hybrid and another group of younglings went after Cassidy. Cassidy put up a brave fight in the lighthouse’s lamp room, successfully killing two younglings and the deep one hybrid, but forfeiting his life in the process. During the fight, a stray shot destroyed the beacon’s lens and bulb, plunging the seas thereabouts into
+darkness. The younglings, without their leader, roam the island searching for the coins, without the wit to return to Folly
+
+Point for help.
+
+Read aloud or paraphrase the following to the players: April 12th, 1926, 8:15pm. The Beacon Island lighthouse off the shore of Folly Point, Massachusetts, ceased to cast its light over the region’s dangerous rocky waters about 15 minutes ago. As a result, the SS Essex County, a mixed passenger and cargo vessel on which you are all traveling to Rockport, has foundered on the rocks and incurred considerable damage to its hull. The ship is sinking, and the crew hurries you toward one of the many small rowboats acting as the ship’s lifeboats. As they load you in, they tell you your best bet is to aim for Beacon Island they doubt you’ll make the mainland as a storm is brewing. You should have just enough time to reach the island before it hits. Then, without another word, they shove you off into the dark, churning waters. All you have to guide you is the small light shining at the base of the lighthouse’s towering silhouette.
+Give the players a brief description of the pre-generated investigators on offer (if you’re using them) and ask them to choose one each. Allow the players time to read over their chosen investigator sheet and answer any questions they might have. Don’t forget to have each player roll their Luck score as well (3D6×5) and add it to their sheet, along with their investigator’s name. If they’re using their own investigators, work with the players to establish why their investigators are on the night boat to Rockport.
+Once that’s all taken care of, have the players briefly introduce their characters to each other. They may, or may not, also wish to reveal any hidden motives they may have for their journey to Rockport. Now you’re ready to begin the adventure proper.
+
+START: CHOPPY WATERS
+
+The investigators’ rowboat hits something hard in the dark waters. Twisted metal has become lodged on a nearby sandbank, while yet more lurks just below the surface. Ask for a combined Know and Spot Hidden roll.
+• If the Know roll is successful, it suggests that the metal may be part of a ship, although the investigator can’t recall hearing of a wreck around here for quite some time.
+• If the Spot Hidden roll is successful, it reveals there are no identifying marks on the metal, and judging by the relatively small number of barnacles and general lack of deterioration, it obviously hasn’t been here for very long.
+• If both are successful, then the player receives all of the above information.
+
+On this side of the island. The pier leads to a narrow dirt path hemmed in by long grass. The faint churning of machinery can be heard nearby. A successful Mechanical or Electrical Repair roll suggests it is the sound of an electric generator. A short walk along the path brings investigators to the lighthouse cottage entrance. Its front door is slightly ajar, and a steady glow can be seen coming from within. On either side of the door is a window; thin curtains are drawn over both, but a warm, welcoming light shines through those on the left. The path continues around to the back of the lighthouse.
+A successful Spot Hidden roll reveals small, muddy, animal-like footprints in front of the main cottage door but, beneath these, are distinct boot prints, only partially obscured by the overlaying track marks. A successful Natural World or Science (Biology or Zoology) roll concludes that the small footprints appear duck-like in nature; a Hard success suggests that there is something unusual about these footprints, as if they may be from an as yet unidentified species.
+As the investigators examine the footprints, the ocean grows rougher as the storm the sailors warned them of begins to roll through. Rain begins to patter down from the sky. If the footprints aren’t followed soon, they may be lost forever, as the rain will make tracking impossible.
+
+A successful Pilot (Boat) roll is required to dislodge the rowboat from the wreckage without crashing into nearby rocks. If the roll is fumbled, or a pushed roll is failed, the rowboat is holed during their attempts to get it free and
+begins to sink, forcing all of the investigators to swim to shore. The Keeper could call for Swim rolls if they wish, but, as most investigators tend to lack a good Swim skill, there is a risk that one or more investigators could drown before they reach the island. We suggest that, due to the island’s proximity, after a good deal of splashing about, the investigators make it to land, cold, wet, battered, and bruised by their ordeal—thus, if a Swim roll is made, they get to the island quicker, while a failed roll means they are tossed about in the water but quickly wash up on the island. All the while, the investigators can clearly see the lights at the base of the combined cottage/lighthouse structure.
+
+DEAD BEACON
+
+Beacon Island map
+
+A small pier and dock lie on the northern shore of Beacon Island. Rowing or swimming investigators can just make it out in the gloom—it is by far the safest place to come ashore
+
+THE LIGHTLESS BEACON
+Keeper note: at this point, the players may decide to split their investigators up, with some following the footprints (If Following the Footprints, below) while others enter the cottage (The Lighthouse Cottage, page 13). Don’t feel that you have to stop them from doing so—the younglings’ imminent attack (An Amphibious Assault, page 20) can be timed to suit your purposes and bring them all back together again inside the cottage, once those outside have found Turner’s body and had a chance to examine it (The Thicket, following). If your investigators do split up, make sure you move between the two groups of players as they explore, so that one group isn’t left sitting with nothing to do for extended periods. If the group does split, either now or inside the lighthouse, it will take longer than an hour to run the scenario.
+
+BUILDING TENSION
+All the time the investigators are outside, they are not alone. Remember, there are numerous younglings wandering the island in search of the missing coins; however, you don’t want to reveal them just yet. Instead, to build tension and spook the investigators, you could mention strange rustlings that have nothing to do with the rising wind; odd shapes half-glimpsed out of the corner of the eye; and a distinct feeling of being watched. If you really want to, you could call for a combined Listen and Spot Hidden roll, but if they do see or hear anything, it’s long gone by the time they investigate further.
+
+IF FOLLOWING
+THE FOOTPRINTS
+
+A successful Track roll determines the animal-like footprints came along the path from the direction of the thicket, while the boot prints lead from the cottage’s front door into the trees. As they are underneath, the boot prints must have been made first. Following these prints eventually leads to Michael Turner’s body, hidden in the woodland nearby (The Thicket, following).
+The footpath around the side of the cottage soon branches. One branch leads to another door—this one to the kitchen. The main branch continues on past the lighthouse to a crude outdoor shower (a bathtub with a jury-rigged shower head and wooden canopy over it, fed by a rainwater tank on top of the canopy) and an outhouse, before making its way through the island’s thicket to the pier on the south shore. Just off the path and behind the lighthouse are two sheds. The smaller shed contains a running electric generator and copious amounts of gasoline and firewood. There is a leak in the generator shed’s roof. Raindrops spatter through it onto the electrical equipment below. All the necessary materials to repair the roof can be found in the workshop next door, although it requires a successful relevant Art/Craft roll (such as Carpentry) or a successful Hard Mechanical Repair roll to do so.
+The second, larger shed is obviously a workshop, containing various materials, mechanical parts, tools, oil lamps, and a workbench. Investigators may quickly fabricate a weapon using the many tools found in this room; such improvised weapons deal 1D4 points of damage (plus any damage bonus). There is also a hammer, along with nails and corrugated iron sheets, that can be used to fix the generator shed’s roof, as well as numerous screwdrivers and chisels that could be used to open the locked desk drawer (The Study, page 13).
+
+The Thicket
+
+If the investigators successfully tracked the footprints back along the path, they soon stumble across a hideously mangled body—that of Michael Turner. It is a bloody mess; his innards have been dragged from his body, slashed, and trampled into the dirt. Beside the corpse lies a shattered
+lantern. It is evident he died recently. Finding the body costs investigators 1/1D4+1 Sanity points. If the Bureau Agent is in play and they are the one who finds the body, then their Sanity loss is 1/1D6 instead.
+A First Aid or Medicine roll uncovers the following:
+• A Regular success reveals that Turner was probably torn apart by some kind of animal, as there are odd teeth and claw marks on the body.
+• A Hard success reveals Turner to have perished very recently: within the last hour, in fact.
+• An Extreme success reveals small needles embedded deep into his skin.
+
+If the needles are discovered, then a successful Hard Natural World or Science (Biology or Zoology) roll concludes they appear to be some sort of animal spine, and are quite probably poisonous. If the investigators search Turner’s body, they find an empty concealed holster and a Bureau of Investigation badge revealing the dead man’s real name to be Warren Thomas. If the Bureau Agent is present, they can confirm this, if they wish. Of course, they may not have revealed that they are a government agent to the other investigators, and
+
+A Spot Hidden roll, in conjunction with the binoculars found in The Study (page 13), reveals the following: so may want to keep quiet on the matter—for now. A sixbullet revolver, a Smith and Wesson .38 Special, lies tangled in Turner’s innards; its chamber only has five “live” bullets remaining, along with one empty shell casing. Whatever attacked Turner, he only had the chance to get off one round before it dropped him. The revolver deals 1D10 damage when successfully fired upon an opponent.
+• A Regular success has the investigators notice a small light (a lantern possessed by the deep one hybrid on the Folly Point shore).
+• A Hard success identifies another yellow rowboat docked on the mainland pier.
+• An Extreme success reveals that both yellow rowboats appear to be of the exact same size and design.
+
+South Pier
+
+Investigators continuing along the well-trodden path through the forest find another worn-out pier. Tied to it is a yellow-painted rowboat. The lights of a small town can be seen in the distance, and some of Rockport’s famous granite quarries can be spotted to the south-south-west.
+
+Keeper note: in a longer game, you could allow investigators to venture to the mainland by boat to face the deep one hybrid waiting there, as well as possibly find
+
+INSANE INVESTIGATORS
+Don’t forget: if an investigator loses 5 or more points of Sanity in one go, or cumulatively manages to lose one-fifth or more of their starting Sanity as the scenario proceeds, then there is every chance that they could go either temporarily or indefinitely insane. To make those numbers easier to keep track of, the starting Sanity points for each of the pre-generated investigators is given below, along with the number of points they must lose to succumb to indefinite insanity. Suggested bouts of madness and involuntary actions for either temporary or indefinite insanity are also included—each bout of madness lasts for 1D10 rounds.
+
+The Antiques Dealer
+
+The Marine Biologist
+
+• SAN: 50
+• Indefinite insanity: when 10+ points lost.
+• Involuntary action: drops whatever they happen to be holding.
+• Bout of madness: paranoia; becomes convinced everyone knows about their past and intends to turn them in to the police at the first opportunity. “Why are you looking at me like that, eh? What do you know? Tell me! Tell me!”
+
+SAN: 60
+Indefinite insanity: when 12+ points lost.
+Involuntary action: freezes to the spot.
+Bout of madness: cannot do anything other than recite the names of marine species in a strangled tone of voice. “Homarus americanus. Callinectes sapidus. Centropristis striata. Prionace glauca. Cynoscion regalis…”
+
+The Artist
+
+The Bureau Agent
+
+• SAN: 65
+• Indefinite insanity: when 13+ points lost.
+• Involuntary action: fires gun in a random direction (if held), or throws the nearest object to hand at a random target.
+• Bout of madness: the whole situation has just gotten too much to bear, so the Bureau Agent attempts to flee. “I can’t take this anymore. This place. You people. I’m going, and there’s nothing you can do to stop me!”
+
+SAN: 60
+Indefinite insanity: when 12+ points lost.
+Involuntary action: faints for one round. Bout of madness: either ichthyophobia (fear of fish) or thalassophobia (fear of the sea or sea travel), depending on what triggers the bout of madness.
+
+THE LIGHTLESS BEACON
+In strange sigils and disturbing designs. A successful Occult roll determines the sigils hold a deeper meaning unknown to the investigators but are similar to those used by remote religious tribes in the South Seas. A successful relevant Art/Craft or Natural World roll identifies an underlying aquatic theme to the coins’ designs.
+
+the corpse of poor Samuel Smith; however, for a one-hour game, we recommend keeping the investigators confined to the island. Perhaps the yellow boat has been damaged by the increasingly stormy seas. Or perhaps the waves are just too high to make an attempt on the mainland in such a tiny, fragile rowboat. Maybe it would be better if the investigators could find a radio so they can call for help?
+Of course, if the investigators don’t visit the south pier until after they’ve uncovered the mystery and dealt with the younglings, then the boat could act as their means of escape. But then there’s that deep one hybrid waiting for them on the other side…
+
+Keeper note: the Appraise, Occult, Art/Craft, or Natural World rolls can be combined if an investigator has some or all of the relevant skills. Whichever skills they succeed at with the combined roll, they acquire the associated piece of information. And if one investigator fails a particular part of the roll, another can always have a go if they also possess the appropriate skill.
+
+THE LIGHTHOUSE
+COTTAGE
+
+Study
+
+Beyond the partially open front door, a hallway leads to the cottage’s four rooms, two on each side of the wide passageway: the study, the bunkroom, the kitchen, and the larder. At the end of the hallway is a winding staircase leading to the lighthouse’s service room. Although all of the rooms appear to be fitted with electric lightbulbs, only the study’s lights are currently turned on. Hopefully, investigators who have seen the light, and either heard or seen that the generator is in full working order, will be wondering just why the lighthouse went dark when the power is obviously still running.
+
+The study contains three armchairs, located in roughly the center of the room. In addition to the hall doorway, there is another door leading to the kitchen. In terms of furniture, besides the armchairs, there is a table to the left of the hall door and a roll-top writing desk on the outer wall, close to the kitchen door. Both have their own wooden chair next to them. The one by the writing desk currently lies on the floor; a successful INT roll suggests its occupant stood up in a hurry, knocking over the chair in the process. The table holds several books of maritime tales, a bird book, a repair manual for the lighthouse, a pipe and a pouch of tobacco, a pair of binoculars, a sketchbook, pencils, watercolor paints, paintbrushes, and paper.
+What appears to be a recently finished watercolor also sits on the table beside a neat stack of other paintings. This piece appears to show a window; a dark shadow with wide eyes leers through the glass pane. The window can easily be identified as the same one next to the artist’s desk. Viewing the painting provokes a Sanity roll (0/1 Sanity point loss). A successful Natural World or Science (Biology or Zoology) roll determines the shadow’s eyes look bulbous and appear to be placed almost to the side of its head, similar to the anatomy of a fish or a frog. A successful relevant Art/Craft roll (such as Painting or Sketching) suggests this piece was executed in a hurry—it lacks the care and finesse of the other
+paintings on the table.
+When flipping through the many neatly stacked watercolor paintings, one more image grabs the investigators’ attention. It features the nearby thicket, as the lighthouse and one or two other small buildings can be seen in it. In the darkness of the path leading into the thicket is the silhouette of a man. Unlike the first painting, this one is dated: February 14th, 1926. There is a corresponding rough sketch with the previous day’s date in the sketchbook. There is no matching sketch for the first painting.
+
+Hallway
+
+The hallway is not currently lit, so the light of the study should, hopefully, draw investigators to that location. If the hallway light is turned on, the first thing anyone notices is the three coat hooks by the door, only one of which currently has a well-worn oilskin hanging from it. Two pairs of galoshes stand in a shallow tray just beneath the coat hooks; there is space for another pair, while a pair of indoor shoes sits beside the tray. Two oil lanterns hang from hooks next to the oilskin; there is also an empty hook, suggesting one
+lamp is missing. As long as the light is turned on, a successful Spot Hidden roll notices two bullets lodged in the hallway floor otherwise, it requires an Extreme success to spot them. A successful Firearms (Handgun) or INT roll determines the bullets were fired from someone positioned a couple of steps up the winding stairwell.
+Spattered blood leads from the kitchen door to the stairs upon discovering this, call for a Sanity roll (0/1 Sanity points loss) where three largish, golden coins lie discarded on the floor. A successful Appraise roll identifies the coins as being made of solid gold. One side of the coins appears to depict an obelisk of some sort, while the other is covered
+
+THE LIGHTLESS BEACON
+While the latest is dated April 2nd, 1926. This last one is from a Miss Anna Tilton of the Newburyport Society (Handout: Lightless 1). The writing desk also has two drawers. The left-hand one is open, but there is a key snapped off inside its lock—the drawer holds an empty wooden box whose green velvet lining is shaped to hold a revolver. Six bullets lie loose in the same drawer. The right-hand drawer is locked—the lock can be picked with a successful Locksmith roll, or forced with a successful STR roll and a kitchen knife, or a screwdriver or chisel, as could be found in the workshop outside (If Following the Footprints, page 11). If opened, the drawer contains a small journal belonging to George Cassidy (Handout: Lightless 2). There is a rough sketch of an obelisk on the journal’s cover the same image as found on the coins (if the investigators have seen them). The last entry cuts off abruptly, as if Cassidy was interrupted while writing it.
+
+The roll-top writing desk on the other side of the room is closed but unlocked. Opening it reveals a half-empty, still warm mug of coffee and lots of stationary: envelopes, stamps, paper, bottles of ink, and pens. A mess of invoices for coin appraisals from a variety of Rockport antique stores litter the rest of the desktop; the quotes range from two to five dollars, and all are dated late February 1926. If the coins have been found in the hallway, then a successful Appraise roll realizes that, while some of the stores have charged a fair price, others have obviously been attempting to take advantage of whoever was having the coins valued.
+Under a large coin catalog are several letters from further afield antique stores, librarians, and universities. Each letter begins with “Dear Mr. Cassidy,” followed by an apology, explaining that the sender is unable to determine the origin of the coins described in the received correspondence; however, all of the letters state they are keen to see an actual sample so that they can carry out a proper, thorough analysis. A successful Library Use roll reveals the letters are largely in chronological order; the first is dated March 8th, 1926,
+
+Keeper note: if the Antiques Dealer is present, they recognize Cassidy’s handwriting and the reference to themselves (February 16th entry).
+
+THE LIGHTLESS BEACON
+
+Kitchen
+
+Bunkroom
+
+The kitchen has some dirty plates and a saucepot in the sink, a table with three chairs, and three doors: one leading outside, one to the hallway, and one to the study. A small wood-fired stove is located in the far corner; a still warm kettle sits on the hearth next to it. One of the chairs lies broken on the floor; there is a small pool of blood on the floor beside it. A successful INT roll suggests the chair may have been used as a weapon, while a successful First Aid or Medicine roll determines the blood pool is recent and formed within the last hour; a Hard success with either of these rolls suggests there’s something not quite right about the blood, while an Extreme success hints that it may not be human in origin.
+In one of the kitchen drawers is the only available sharp kitchen knife. One of the investigators may wish to grab it to use as a weapon (1D3 damage, plus any damage bonus) or, alternately, use it to pry open the locked drawer in the writing desk.
+
+The bunkroom contains three neatly-made beds. A large pile of books is stacked tidily in one corner of the room. There are also three large cupboards, each holding soap, towels, fresh bedding, and extra blankets. Those belonging to Turner and Cassidy contain various articles of clothing along with a few small personal effects; the one belonging to Smith contains only the linen and towels. A successful Spot Hidden roll finds one gold coin, six loose bullets, and a pocket-sized notebook (Handout: Lightless 3) stuffed inside Turner’s mattress. If the Bureau Agent is present, they gain a bonus die on the roll, as they have a good idea of where to look for anything their colleague may have hidden. Turner was stationed on Beacon Island as an undercover agent to track illegal shipping along the popular trade routes after uncovering part of an unmarked boat hull in the waters nearby.
+
+Larder
+
+The lighthouse’s food store is full of shelves, all neatly stacked with all manner of dried, canned, and preserved foods—enough to see three people through if cut off from the mainland for several months.
+
+Handout: Lightless 3
+
+Lighthouse Service Room
+
+Investigators climbing the stairs in the hallway eventually reach the lighthouse’s service room, located immediately below the lantern room. The mechanism used to turn the lamp can be seen mounted in the ceiling, and from the noise, it appears to still be working. A separate set of steps leads up through a trapdoor into the lantern room above. There are several boxes stored here; each contains a replacement bulb for the lighthouse’s beacon. There is also a small workbench and a tool bag. On the workbench is a log of the various service checks performed on the lighthouse. A successful Mechanical or Electrical Repair roll determines that the majority of the checks are purely routine; however, one entry stands out: on February 12th, 1926, wiring problems caused the lighthouse’s lamp bulb to prematurely burn out. The log records how the electrical short caused by the bulb’s failure, coupled with the severe storm, hampered the repairs, meaning the lighthouse was in darkness for several hours.
+
+Keeper note: this malfunction led directly to the Innsmouthbound ship sinking. Opposite the workbench is a table with a radio set in a semi-state of disrepair. A successful Electrical Repair roll fixes the radio with ease. Should they wish to, the investigators can now put out a call for help to the local coastguard, who Searching the various corpses reveals several points of interest. The body nearest the stairs is very strange-looking. The man, garbed in a heavy, hooded raincoat, appears to have a narrow head and pronounced flaps of skin around his neck and jowls. He also seems to be suffering from some sort of skin condition, going by his gray, rough complexion. His bulging, watery eyes stare sightlessly in the direction of Cassidy’s corpse. A successful First Aid or Medicine roll confirms he has been shot twice, and that these bullet wounds lead to his death.
+A dead fish-creature lies beside the strange man. Both it and the one attached to Cassidy’s corpse have been shot as well—one through the eye, and one through its belly. Beyond the creatures’ obvious fishlike appearance and amphibious nature, this species of fish is not recorded anywhere in any book known to the investigators (no roll required if the Marine Biologist is present; a successful Natural World or Science (Biology or Zoology) roll if they are not). The bizarre piscine-things look like they would be extremely mobile on land due to their muscular legs, and perfectly at home in the water due to their fins and gills. The aforementioned Natural World or Science (Biology or Zoology) roll when inspecting the fish-creatures also uncovers the following: promises to send someone along to rescue them as soon as
+possible. A fumbled or failed pushed roll renders the radio permanently inoperable. The radio table’s chair appears to have been tipped over and needs to be moved to gain access to the lamp room steps.
+
+Lighthouse Beacon
+
+Investigators reaching the lantern room are greeted by a wet, bloody scene. Two panes of glass in the lantern room’s windows have been broken somehow; their shattered remains crunch underfoot. The rain blows in through the gaps, making the metal decking slippery underfoot. Adding to the slipperiness is blood from the corpses of two men, along with that from two bizarre fish-creatures (see Younglings in the Monster Profiles, page 22), which lie inside room’s narrow confines. One of the dead fish-things is latched onto one of the men’s necks by its teeth, even in death. Witnessing the gory tableau prompts a Sanity roll (1/1D4+1 loss; 1/1D6 for the Antiques Dealer, if present).
+
+Keeper note: if the Antiques Dealer is present, they recognize the body as that of their former colleague, George Cassidy.
+
+The youngling and hybrid corpses
+
+AN AMPHIBIOUS
+ASSAULT
+
+• A Regular success indicates that the bullets which entered both creatures only killed them because they went into the softest, fleshiest, most vulnerable parts of their bodies. The rest of their scaly exteriors, although penetrable, are coarse and tough, no doubt providing the creatures with a form of natural armor. Evidently, Cassidy was a “lucky” shot, for all the good it did him.
+• A Hard success reveals slimy needles hidden within the creatures’ dorsal fins. If the investigators have already discovered the needles in Turner’s corpse, then they recognize these immediately. If not, the investigators conclude the needles are more than likely used as a projectile weapon against prey.
+• An Extreme success suggests that the needles are undoubtedly coated with a self-produced poison, although the exact nature of the venom cannot be determined without proper laboratory testing.
+
+Once the investigators have had the chance to fully explore the lighthouse and its cottage, or, if they followed the footpath instead, once they’ve had time to explore the island and find Turner’s body, it’s time for the remaining younglings to launch their assault. Not the brightest of creatures, those outside—the ones who killed Turner—have been roaming the island searching for coins, as they were instructed to by their deep one hybrid handler. But time has passed, and now they’ve realized that they are not alone on the island. Thus,
+they follow their other instruction: to take care of anyone who gets in the way of them retrieving the missing coins.
+
+Through the Woods
+
+If there are any investigators in the thicket or at the south pier, a successful combined Listen and Spot Hidden roll alerts them to movement nearby. As they turn toward the sound or flash of movement, they become aware of a number of ugly, fish-like creatures moving steadily toward them from the trees (see Younglings in Monster Profiles, page 22). The number of younglings is determined by the number of investigators present: one per investigator. The sight of the creatures prompts a Sanity roll (1/1D4 loss).
+
+The final corpse is that belonging to Cassidy. Hidden under the late lighthouse keeper’s shirt is a heavy purse full of the strange gold coins, tied around his neck on a thick leather cord. A six-shooter—a Colt M1877—is held firmly in his still-warm hands. All of the bullets in the chamber have been spent. The revolver appears to match the size and shape of the one missing from the desk drawer downstairs, and deals 1D8 damage per shot, once reloaded. Taking into account the two bullets in the strange man, and the two in the fish-creatures, two bullets are still unaccounted for. A successful Spot Hidden roll identifies a bullet hole in the lamp’s lens; the bullet which caused it appears to have shattered the bulb inside before carrying on through to smash one of the lantern room’s missing panes
+of glass. This, at least, explains why the lighthouse beacon stopped working at 8 pm this evening. It can easily be surmised that the second broken pane was destroyed by the other bullet.
+Anyone with at least 20% in Mechanical Repair knows that, without a replacement lens, there is no way the lighthouse can be brought back up to full working order. If they’ve searched the service room, the investigators know that there isn’t one in storage; however, replacing the bulb would affect a temporary repair—this would take at least 40 minutes and a successful Mechanical Repair roll to achieve. Unfortunately, time is not on the investigators’ side, for the remaining younglings on the island have become aware of the investigators’ presence and are readying themselves to launch an attack.
+
+Keeper note: if you want to really pile on the pressure, there can be more younglings than there are investigators; however, the younglings may prove to be quite tough adversaries, depending on the investigators’ skills. If combat is likely to take place, then we recommend sticking with one youngling per investigator—for now, anyway. But, if your plan is to encourage the investigators to flee to the lighthouse, the sight of more creatures than they can possibly hope to take on should give them all the incentive they need to beat a hasty retreat.
+The investigators are now faced with a choice: make a run for it, or stand and fight. If they decide to fight, then combat takes place as normal. If the investigators survive, then they have the option of heading to the lighthouse or trying to escape by rowboat (see the Keeper Note, South Pier, page 12). If they head for the lighthouse then, if the Keeper wishes, more younglings could appear to chase them. If the investigators are pursued by a horde of younglings, the Keeper may wish to use the chase rules (Call of Cthulhu: Keeper Rulebook, Chapter 7), using appropriate obstacles to hinder their escape. If not using the full chase rules, then a successful opposed DEX roll against the younglings is enough to get the investigators to the lighthouse cottage.
+
+THE LIGHTLESS BEACON
+younglings now have a penalty die applied to their associated rolls—if you are planning on having a showdown in the lantern room, we suggest you don’t call for this Luck roll, as the effect of having two penalty dice makes it very hard for the investigators to succeed at anything. As for the encounter outside the lighthouse, there is one youngling for each investigator. There can be more, if the Keeper wishes, depending on how they’re playing the game (see Keeper Note, Under Siege, nearby).
+Although the younglings have a small number of hit points, their natural armor and their ability to deal high amounts of damage make them formidable foes. If the investigators are aware of their weak spots from having examined the bodies in the lantern room, then they can attempt to target the youngling’s eyes and bellies during combat. This inflicts a penalty die on their attack roll, but a success means that their aim was true and the creature’s armor can be ignored. Otherwise, the youngling’s armor must be subtracted from any damage inflicted.
+
+and (relative) safety. Any investigator who fails is tripped by a youngling and must fight to survive, or attempt to break away and flee (a successful Fighting (Brawl) maneuver); if they fumble the DEX roll or fail when pushing the roll, they disappear under a horde of biting, scratching younglings, never to be seen again.
+
+Under Siege
+
+If some of the investigators went into the lighthouse while others explored the island, then the first they know of the youngling attack is when their undoubtedly panicked companions burst into the cottage seeking refuge. This gives the investigators the opportunity to barricade themselves into the lighthouse and come up with a hasty plan to defend themselves against their small but dangerous assailants. This may include fixing the radio to call for help, if they haven’t done so already.
+
+Keeper note: if you are running The Lightless Beacon as a oneoff survival horror scenario, then there is no reason you can’t have wave after wave of younglings attacking the building until the investigators either run out of bullets, improvised weapons, or hit points—if this is the sort of thing you know your players will enjoy. If not, don’t overwhelm them and give them at least a chance of surviving the night.
+
+Keeper note: remember that no roll can incur more than two penalty dice at a time and that monsters are assumed to always fight back in combat, unless they are particularly wily or smart—younglings are neither.
+
+CONCLUSION
+
+If everyone went into the cottage to begin with, and no one thought to close the front door, then a successful Listen roll is required to hear the sounds of skittering feet within the cottage, or on the stairs to the lantern room. If they did close the front door, then the investigators are alerted to the younglings’ arrival by the sound of splintering wood and glass as they smash the door in.
+
+If The Lightless Beacon is being run as a full-on survival horror scenario, then there are two main outcomes: either all of the investigators end up dead or something happens to scare the younglings away. The latter could be as simple as the sun coming up—a staple of many good horror movies—or it could be that the younglings decide that the cost is not worth continuing the fight. If the investigators got the radio working, it could also be that the coastguard arrives to rescue them, in more ways than one. If, on the other hand, the Keeper limited the number of younglings to one or two per investigator, the assault stops as soon as all the younglings on the island are dead (or the majority of them). No more come to join them, and the deep one hybrid waiting at Folly Point decides something musthave gone terribly wrong and withdraws to rethink their strategy. If the investigators are struggling but they managed to call for help on the radio, then the coastguard could turn up in the nick of time to save them, just when all seems lost.
+
+Keeper note: you may wish to trigger the attack on the cottage before the investigators have a chance to discover the grisly scene at the top of the lighthouse. If so, the younglings attempt to force the investigators up the lighthouse tower, where they must either make a stand in the service room or fight it out in the bloody lantern room. Any fight in the lantern room attracts a penalty die to all physical rolls due to the slippery floor and cramped conditions, on top of the penalty die that may be caused by the generator failing (see following). If the investigators have not fixed the roof shielding the generator, as the attack on the cottage begins, the Keeper may decide to ask for a group Luck roll; if the roll fails, the rain has intensified to such a degree that the water pouring through the roof shorts out the generator, plunging the lighthouse into darkness. Any attempts to deal with the
+
+Keeper note: if you want the scenario to last longer than an hour, perhaps the deep one hybrid at Folly Point decides to journey over to the island in their little yellow rowboat with a few more younglings to see what’s happening, turning up just when the investigators think the horror is finally over. Statistics for the deep one hybrid can be found in the
+
+Monster Profiles section on page 23.
+
+The head and body of a youngling are similar to those of an angler fish. It has elongated spiny fins, muscular arms, and its hands possess three sharp claws. In addition, it has large muscular frog-like legs, clawed webbed feet like those of a duck, and a long thick finned tail. They are only distantly related to deep ones, but have often been—quite erroneously identified as immature members of that species. The younglings in this scenario have been called from the very depths of the ocean to assist the deep one hybrids from Innsmouth with their attempt to retrieve the missing coins from George Cassidy.
+
+If any of the investigators survive and there’s still time, permit them to search any locations they’ve not yet explored. If they have found Cassidy’s coin stash, then it’s up to them to decide what to do with it—hopefully, they have more sense than to contact anyone in Innsmouth about the coins! Should the coastguards perform a rescue, the investigators are going to have to think very carefully about how they answer any questions they’re asked about what’s happened on the island. The “wrong” answers may well lead to them being taken to the mainland for interrogation by the Bureau of Investigation as a part of their ongoing inquiries into smuggling in the area. Bizarrely, though, the Bureau’s agents are likely to believe their stories about strange fishcreatures; however, the investigators’ clothes are burned, their possessions confiscated, and they are sworn to absolute secrecy about the events of April 12th, 1926.
+
+Younglings Tactics
+
+Similar to ravenous dogs, younglings tend to pursue their prey at any cost, unless ordered otherwise by a creature they recognize as their superior, such as a deep one hybrid or a deep one—they do not recognize humans as superiors. Younglings attack first by turning their backs on their opponents and firing a projectile needle from their dorsal fins in the hope of drugging and weakening them, before immediately following up with a melee attack. If you are not running The Lightless Beacon as a survival horror game, then, if the Keeper wishes, younglings that successfully render an investigator unconscious, either after inflicting a major wound or by reducing them to zero hit points, may quickly move onto the next closest target. If all of the investigators end up unconscious in this way, then the younglings continue to search for Cassidy’s gold coins and leave as soon as they have found them—this provides the opportunity for unconscious investigators to wake up, take stock of their situation, and figure out a new course of action.
+
+REWARDS
+
+Award any surviving investigators the following Sanity points. The Keeper should reward investigators, if they thought of any particulary creative methods for combating the younglings, with an optional +1D4 Sanity points.
+• Killing a youngling: +1D4 Sanity points (max per investigator).
+• Retrieving Cassidy’s gold: +1D4 Sanity points.
+• Surviving the younglings’ assault: +1D6 Sanity points.
+
+Youngling, deep-sea nightmare
+
+EPILOGUE
+
+STR 100 CON 40
+APP —
+POW 40
+DB: +1D4 Build: 1
+
+Don’t forget to wrap up the scenario with a short epilogue that ties up any remaining loose ends for the players. You may also wish to highlight any successes the investigators have achieved. If the investigators decided to sell any coins they found, mention that they manage to raise more than enough cash for them to take a nice, extensive vacation to help them recover from the terrible sights they saw on Beacon Island. Although whether they’ll ever feel safe enough to go anywhere near the ocean again is another matter entirely…
+
+SIZ 25
+DEX 80
+INT 10
+EDU — SAN —
+HP 6
+Move: 8/10 swimming MP: 8
+
+Combat
+Attacks per round: 1 (needle, claw, bite)
+Projectile Needle: younglings have projectile poison-tipped needles that they can shoot from their dorsal fins. A target may avoid being hit by a needle if they succeed at their Dodge roll when opposing the youngling’s attack; however, targets who are not prepared for the youngling’s projectile attack—usually because they are unaware of what a youngling turning its back on them means—should have a penalty die applied to their Dodge roll. If hit, the victim must achieve a successful Extreme CON roll to remain unaffected by the poison. The needles themselves deal no damage, but the fast-acting poison
+
+MONSTER PROFILES
+
+This section contains the statistics for The Lightless Beacon’s main adversary, the younglings, along with statistics for a deep one hybrid, should the Keeper wish to extend the scenario.
+
+THE LIGHTLESS BEACON
+STR 65
+APP —
+DB: 0
+
+causes blurred and double vision for 1D6+1 combat rounds, which provides a penalty die to all of the victim’s rolls during this time. After shooting one needle, the youngling switches to melee attacks for each combat round thereafter. Younglings that have latched onto a victim, or who are in the midst of melee combat, cannot use this ability.
+
+CON 65
+POW 50
+Build: 0
+
+SIZ 50
+DEX 65
+EDU—
+SAN —
+Move: 8/8 swimming
+
+INT 65
+HP 11
+MP: 10
+
+Combat
+Attacks Per Round: 1 (unarmed combat, or weapon)
+Deep one hybrids can use weapons as humans do.
+
+Latch: a youngling rolling an Extreme success with their Bite attack latches onto its victim, causing an initial 1D3+1D4 damage, and then 1D3 damage per round thereafter. Investigators making a successful Hard STR roll can dislodge the creature and throw them aside. Similarly, other nearby investigators succeeding at a Hard STR roll can pull a youngling from a friend. Younglings latched onto a victim are unable to Dodge or use projectile needle attacks.
+
+Fighting		
+		
+Dodge		
+
+45% (22/9), damage 1D3
+or by weapon
+30% (12/5)
+
+Skills
+Jump 45%, Listen 50%, Stealth 46%, Swim 60%.
+Armor: none.
+Special Powers: breathe underwater.
+Sanity Loss: 0/1D6 Sanity points to see a deep one hybrid.
+
+Fighting		
+40% (20/8), damage 1D3+1D4,
+		
+if an Extreme success with bite
+		
+attack, this is followed by 1D3
+		
+Latch damage each round
+		
+thereafter until removed with
+		Hard STR roll
+Projectile Needle
+30% (15/6), see description above
+Dodge 		
+30% (15/6)
+Skills
+Smell Prey 50%.
+Armor: 3-point scales. Successful attacks targeting a youngling’s eyes or belly bypasses their armor—such “called shot” attacks suffer a penalty die to target those specific areas (aiming for the youngling’s underbelly or face), and can only be attempted on the investigator’s action in combat.
+Special Powers: night vision—a youngling is unaffected by
+darkness.
+Sanity Loss: 1/1D4 Sanity points to see a youngling.
+
+Deep One Hybrid, Innsmouth-tainted progeny
+
+The youngling
+
+Deep one hybrids are the progeny of deep one and human matings. Although the offspring of such unions are usually born as normal humans, changes in appearance and physiology tend to occur in late teens—commonly known as the “Innsmouth Look.” By middle age, most hybrids display some form of gross deformity and such individuals retire to the privacy of their close-shuttered homes. Within a few years, the hybrid undergoes the final transformation into a deep one and embarks on a new life in the sea.

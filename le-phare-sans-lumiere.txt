@@ -1,0 +1,383 @@
+STRUCTURE DU SCÉNARIO
+
+Si vous envisagez d'utiliser la balise sans lumière pour un scénario d'une heure, vous trouverez ci-dessous des suggestions de temps. Si vous avez plus de quatre joueurs qui participent, ou si vos joueurs souhaitent créer leurs propres enquêteurs (plutôt que d'utiliser la
+), ou si vous souhaitez lancer un jeu plus long, chaque section est susceptible de prendre au moins le double du temps mentionné ici - peut-être plus.
+
+À propos des enquêteurs
+
+- Mise en place : le Gardien décrit brièvement les prémisses du scénario (Mise en place, page 9) et les enquêteurs prégénérés proposés (ou les types les plus appropriés en cas de création de nouveaux personnages). S'il y a de nouveaux joueurs à la table, le Gardien peut également avoir besoin de donner un bref aperçu des règles de Call of Cthulhu qu'ils utiliseront pour diriger le jeu, et s'ils utilisent les règles optionnelles de Spending Luck (Call of Cthulhu : Keeper Rulebook, page 99, ou la case Introducing Spending Luck à la page 7). Les joueurs sélectionnent, ou créent, leurs enquêteurs et les présentent brièvement à tout le monde.
+- Commencez : Choppy Waters : (5-10 minutes) Après les fondateurs de leur navire, les enquêteurs pilotent une petite barque dans des eaux agitées jusqu'au phare de l'île Beacon. Ils peuvent découvrir une partie d'un navire coulé sous les eaux, autrefois destiné à la petite ville d'Innsmouth.
+- Balise morte : (10 à 40 minutes) Les enquêteurs explorent l'île. Ils peuvent décider de fouiller l'île elle-même ou d'entrer dans le phare. Les deux recherches aboutissent à la découverte d'un cadavre et peuvent également mener à la découverte d'étranges créatures amphibies décédées. La raison des meurtres peut être découverte lors de l'examen des notes et des lettres laissées dans le bureau du phare.
+- Un assaut amphibie : (40-55 minutes) Les enquêteurs sont attaqués par d'étranges créatures amphibies, désireuses de récupérer leurs pièces manquantes. Les secours peuvent arriver ou non, selon les actions antérieures des enquêteurs.
+
+Quatre enquêteurs pré-engendrés sont fournis pour être utilisés avec la balise sans lumière. Chacun d'entre eux a une raison personnelle ou professionnelle d'être sur le bateau pour Rockport et, par conséquent, de se laisser prendre par les événements qui se déroulent sur l'île Beacon. Si les joueurs décident d'utiliser ces enquêteurs plutôt que de créer les leurs, faites-leur lire attentivement leurs fiches d'enquêteurs avant le début du jeu afin qu'ils puissent utiliser les informations incluses pour guider leurs enquêteurs dans le scénario. Chaque enquêteur est présenté de manière neutre, ce qui signifie que les joueurs doivent décider si leurs personnages sont masculins, féminins ou non binaires. Ils devront également trouver un nom pour leur personnage.
+Enfin, s'ils utilisent les enquêteurs prégénérés, les joueurs doivent déterminer les valeurs de chance de ces enquêteurs. Ils doivent lancer le dé 3D6 et multiplier le résultat par 5. Ils doivent ensuite encercler le chiffre approprié dans la case "Chance" de leur feuille d'enquêteur.
+Le marchand d'antiquités Ancien criminel, le marchand d'antiquités a tourné la page après un rasage de près qui a failli le faire arrêter et emprisonner il y a quelques années. Ils ont récemment reçu une lettre d'un ancien complice, George Cassidy, gardien de phare sur l'île Beacon, leur demandant s'ils étaient toujours dans le commerce des objets étranges et exotiques.  
+
+LE PHARE SANS LUMIÈRE
+- Traits : fidèle à un point. Méfiants et prudents aussi, ils ont beaucoup à perdre si quelqu'un d'autre découvre qui ils étaient.
+- Accroches de jeu de rôle : pour découvrir dans quel genre d'ennuis Cassidy s'est mis cette fois-ci et voir s'ils ne peuvent pas le redresser. Encore une fois.
+
+INTRODUIRE LA CHANCE DE DÉPENSER
+Si vous utilisez la balise sans lumière avec le kit de démarrage Call of Cthulhu, il se peut que vous ne connaissiez pas les règles facultatives de Spending Luck (Call of Cthulhu : Keeper Rulebook, page 99). Nous vous recommandons de les utiliser, car elles sont très utiles lorsque les dés sont mal lancés et permettent de faire avancer l'intrigue - ce qui est très pratique si vous jouez à un jeu court.
+Si vous décidez d'utiliser ces règles, les joueurs n'ont pas seulement la possibilité de lancer leur chance, mais ils peuvent aussi dépenser leurs "points" de chance pour ajuster leurs lancers de dés. En général, ils le font pour transformer un échec en succès, mais ils peuvent aussi utiliser leurs "points de chance" pour ajuster leurs jets de dés.
+permet de modifier le degré de réussite s'il le faut - d'un succès régulier à un succès difficile, ou d'un succès difficile à un succès extrême (cela peut être particulièrement utile dans les situations de combat.) Pour ajuster un jet de compétence (mais pas un jet d'équilibre mental ou un jet de chance), le
+Le joueur "brûle" des points de chance, en dépensant la somme nécessaire pour transformer un échec en succès, ou en un niveau de succès accru.
+Par exemple, si vous avez caché 40 % de points mais que vous avez obtenu 50 (un échec), vous pouvez dépenser 10 points de chance pour ajuster le jet à 40, ce qui en fait un succès. Cela fait beaucoup de chance à brûler en une fois, selon votre score de chance, mais dans certaines situations, il peut être judicieux de le faire, par exemple pour découvrir un indice ou pour éviter de prendre une raclée. La seule limite à la chance qu'un joueur peut dépenser est le montant de chance qu'il reste à son enquêteur. Mais dépenser de la chance est une arme à double tranchant : une fois que vous l'avez dépensée, elle n'est plus là et, si vous devez faire un jet de chance plus tard dans le scénario, vous utilisez votre valeur actuelle (la plus basse) pour la dépenser, et non celle de départ ! Il existe des moyens de rafraîchir la Chance dans une campagne en cours, mais ils ne sont pas nécessaires pour ce scénario.
+Mais soyez gentil avec vos joueurs : ne les encouragez pas à dépenser leurs points de chance sur des lancers sans importance - laissez-les garder leurs points de chance pour le moment où ils en auront vraiment besoin. Les points de chance ne peuvent pas non plus être utilisés pour tout réparer, car ils ne peuvent pas être dépensés pour ajuster un jet poussé ou raté, un dysfonctionnement d'arme, des jets de dommages, des jets de santé (ou des jets pour déterminer combien de santé est perdue), ou - évidemment - des jets de chance !
+
+L'agent du Bureau
+Actuellement en mission dans le Massachusetts pour surveiller toute activité illégale le long des routes maritimes populaires de la côte est, l'agent du Bureau se rend à Rockport pour recevoir un briefing d'un collègue agent, Warren Thomas, actuellement sous couverture en tant que gardien de phare Michael Turner sur Beacon Island.
+- Traits : un peu nerveux et vigilant. Il y a juste quelque chose dans cette mission qui les rend nerveux.
+- Les crochets du jeu de rôle : obtenir ce rapport de leur collègue d'infiltration, dans l'espoir que cela suffise à les faire réaffecter dans un endroit moins effrayant.
+
+Le biologiste marin
+Le biologiste marin termine actuellement un document de recherche sur le fascinant environnement marin de Rockport. Ils ont juste besoin d'un peu plus de données avant de pouvoir le soumettre à l'université de Boston, d'où leur voyage actuel.
+- Traits : charmants, mais déterminés à prouver qu'ils sont plus qu'un joli visage.
+- Hameçons : pour terminer ce papier et peut-être trouver des preuves d'une nouvelle espèce marine - qu'ils pourront nommer eux-mêmes !
+
+L'artiste
+Un peu comme un gadabout dans leurs jeunes années, l'artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d'une tournée le long de la côte est à la recherche d'inspiration pour leurs peintures.
+- Traits : Flamboyant et légèrement excentrique, mais personne n'est fou.
+- Crochets de jeu de rôle : pour trouver quelque chose qui suscite leurs passions artistiques. Mais ils devront garder l'esprit ouvert : on ne sait jamais quand l'inspiration va frapper, ni d'où !
+
+Moins de quatre joueurs ?
+
+Si vous n'avez que deux joueurs et qu'ils souhaitent utiliser les enquêteurs prégénérationnels, alors nous leur recommandons de choisir l'Antiquaire et l'Agent du Bureau. Si vous avez trois joueurs, ajoutez le Biologiste marin. Bien que ce scénario ne soit pas conçu pour un seul joueur, si vous n'en avez qu'un, nous suggérons qu'il choisisse l'agent du Bureau, mais qu'il augmente ses compétences d'expert et de pilote (de bateau) à 50 %.
+
+Une autre option pour les joueurs solitaires est de leur faire contrôler à la fois le marchand d'antiquités et l'agent du Bureau.
+
+Enquêteurs supplémentaires ou suppléants
+
+Les compétences utiles que les enquêteurs nouvellement créés et existants doivent posséder pour ce scénario sont notamment les suivantes Évaluer, art/artisanat (peinture ou croquis), réparation électrique, armes à feu (pistolet), premiers secours, écouter, serrurier, réparation mécanique, médecine, monde naturel, occulte, pilote (bateau), repérage des objets cachés, furtivité et pistage.
+
+Si votre groupe compte plus de quatre joueurs, vous devrez alors créer des enquêteurs supplémentaires pour eux. Comme les personnages prégénérés voyagent tous sur le bateau pour Rockport, les autres personnages du joueur peuvent être des compagnons de voyage ou même des membres de l'équipage du bateau. Cela vous permet de choisir parmi un large éventail de professions, bien qu'un capitaine de navire ou un ingénieur de navire donne au personnage un bon éventail de compétences, notamment en matière de combat, de navigation, de matelotage et de capacité à réparer les choses. Qui sait, ils peuvent même avoir de sombres secrets liés à leur vie de marin qui les ont poussés à prendre leur emploi actuel - ou même à avoir eu d'étranges rencontres en mer avec des créatures venues du fond des vagues...
+Si votre groupe préfère créer ses propres enquêteurs, il lui suffit d'avoir une raison d'être sur le bateau pour Rockport. Il serait bon qu'au moins l'un d'entre eux ait un lien avec l'un des employés du phare de Beacon Island - un correspondant ou un parent peut-être, ou même un gardien de phare remplaçant qui viendrait à Rockport pour remplacer le personnel actuel au fur et à mesure que la rotation des équipes change. Et, si vos joueurs ont déjà des enquêteurs, il vous suffit de les faire embarquer à bord du SS Essex County pour qu'ils soient prêts à affronter la folie.
+
+Point le 12 avril 1926.
+
+CONTEXTE
+
+Le 12 février 1926, une grande tempête ravage Folly Point, près de Rockport, dans le Massachusetts. Un navire banalisé, à destination d'Innsmouth et transportant de l'or des cultistes de Dagon dans les mers du Sud, se servait du phare de Beacon Island comme guide, afin d'éviter les routes commerciales habituelles et de ne pas être repéré par les yeux indiscrets. Malheureusement, la lampe du phare a mal fonctionné, ce qui a fait que le navire s'est dirigé vers les rochers voisins, déchirant sa coque et provoquant une petite mais dévastatrice explosion dans la chaudière du navire, après quoi le navire a coulé, laissant à peine une trace pour marquer son passage. Depuis cet événement, l'Ordre ésotérique de Dagon d'Innsmouth a tenté de récupérer discrètement son or sur le navire - une tâche difficile, compte tenu de la proximité de Beacon Island et des voies maritimes populaires vers et depuis Rockport. Bien que
+
+MISE EN PLACE
+
+Ils ont connu un grand succès, certaines pièces leur ont échappé, échouées sur divers sites le long de la côte sur le continent et sur la côte nord de l'île Beacon. George Cassidy, gardien de phare sur l'île, est tombé sur l'une de ces pièces le lendemain du naufrage du navire et a, au cours du dernier mois environ, collecté une bonne quantité d'or à Innsmouth grâce à un bombardement minutieux et déterminé sur la plage. Il a également tenté de découvrir le prix qu'elles atteindront sur le marché des antiquités, dans l'espoir de pouvoir convertir ces étranges pièces en un pécule substantiel pour lui-même.
+Jusqu'à présent, les sectaires ont laissé les occupants du phare tranquilles, croyant à tort que personne n'avait trouvé de pièces manquantes sur l'île. Bien qu'ils reprochent aux gardiens du phare les retards dans la réparation de la balise pour le naufrage de leur navire, ils ne voyaient pas l'intérêt de chercher à se venger de leurs pertes, car le phare était trop précieux pour leurs efforts de contrebande pour risquer d'interférer avec son fonctionnement quotidien. Les choses ont changé lorsque les sectaires ont reçu une lettre de Cassidy demandant de l'aide pour identifier les pièces d'or et évaluer leur valeur. Les sectaires ont décidé de récupérer les pièces manquantes, car les recherches continues de Cassidy attireraient sans aucun doute une attention indésirable avant longtemps. Ils ont chronométré leur infiltration de l'île au 12 avril, la nuit de la nouvelle lune, pour se donner l'avantage de l'obscurité supplémentaire pendant l'assaut.
+Après une brève reconnaissance, les deux hybrides Deep One affectés à cette tâche ont capturé l'un des camarades gardiens de phare de Cassidy, Samuel Smith, alors qu'il fuyait l'île après une étrange observation de trop. Ils ont interrogé puis assassiné le malheureux Smith, qui avait, selon eux, confirmé leurs premières constatations selon lesquelles les deux autres occupants de l'île ne devraient pas poser trop de problèmes. Ainsi, le soir du 12 avril 1926, l'un des hybrides du Deep One a conduit un groupe de dangereuses créatures amphibies, connues sous le nom de jeunes, à se débarrasser de l'équipage restant du phare et à retrouver la collection de pièces de Cassidy. L'autre hybride est resté à Folly Point, prêt à appeler des renforts, si
+nécessaire.
+Une fois sur l'île, un groupe de jeunes gens a poursuivi et assassiné l'agent secret et employé de phare Michael Turner, tandis que le grand hybride et un autre groupe de jeunes gens s'en prenaient à Cassidy. Cassidy a mené un combat courageux dans la salle des lampes du phare, tuant avec succès deux jeunes et l'hybride profond, mais perdant ainsi la vie. Pendant le combat, un tir perdu a détruit la lentille et l'ampoule du phare, plongeant les mers environnantes dans
+l'obscurité. Les jeunes, sans leur chef, parcourent l'île à la recherche des pièces de monnaie, sans l'esprit de retourner à la Folie
+
+Un point pour l'aide.
+
+Lisez à haute voix ou paraphrasez les points suivants à l'intention des joueurs : 12 avril 1926, 20h15. Le phare de Beacon Island au large de Folly Point, Massachusetts, a cessé de jeter sa lumière sur les dangereuses eaux rocheuses de la région il y a environ 15 minutes. En conséquence, le SS Essex County, un navire mixte de passagers et de marchandises à bord duquel vous vous rendez tous à Rockport, a sombré sur les rochers et subi des dommages considérables à sa coque. Le navire est en train de couler et l'équipage se précipite vers l'une des nombreuses petites barques qui servent de canots de sauvetage. Alors qu'ils vous chargent, ils vous disent que votre meilleure chance est de viser l'île de Beacon ; ils doutent que vous arriviez sur le continent alors qu'une tempête se prépare. Vous devriez avoir juste assez de temps pour atteindre l'île avant qu'elle ne frappe. Puis, sans un mot de plus, ils vous poussent dans les eaux sombres et tumultueuses. Tout ce qui vous guide, c'est la petite lumière qui brille à la base de l'imposante silhouette du phare.
+Donnez aux joueurs une brève description des enquêteurs prégénérationnels proposés (si vous les utilisez) et demandez-leur d'en choisir un chacun. Laissez aux joueurs le temps de lire la fiche de l'enquêteur choisi et de répondre aux questions qu'ils pourraient avoir. N'oubliez pas de demander à chaque joueur d'indiquer également son score de chance (3D6×5) et de l'ajouter à sa fiche, ainsi que le nom de son enquêteur. S'ils utilisent leurs propres enquêteurs, travaillez avec les joueurs pour établir pourquoi leurs enquêteurs sont sur le bateau de nuit pour Rockport.
+Une fois que tout cela est fait, demandez aux joueurs de présenter brièvement leurs personnages les uns aux autres. Ils peuvent aussi, ou non, vouloir révéler les motifs cachés de leur voyage à Rockport. Vous êtes maintenant prêt à commencer l'aventure proprement dite.
+
+DÉBUT : EAUX AGITÉES
+
+La barque des enquêteurs heurte quelque chose de dur dans les eaux sombres. Du métal tordu s'est logé sur un banc de sable voisin, tandis que d'autres se cachent juste sous la surface. Demandez un rouleau combiné "Connaître et repérer les cachés".
+- Si le rouleau "Savoir" est réussi, cela suggère que le métal fait peut-être partie d'un navire, bien que l'enquêteur ne se souvienne pas avoir entendu parler d'une épave dans le coin depuis un certain temps.
+- Si le rouleau "Spot Hidden" est réussi, il révèle qu'il n'y a pas de marques d'identification sur le métal, et à en juger par le nombre relativement faible de bernacles et l'absence générale de détérioration, il n'est évidemment pas là depuis très longtemps.
+- Si les deux sont réussis, le joueur reçoit alors toutes les informations ci-dessus.
+
+De ce côté de l'île. La jetée mène à un étroit chemin de terre encastré dans de longues herbes. On peut entendre le faible barattage des machines à proximité. Un rouleau de réparation mécanique ou électrique réussi suggère qu'il s'agit du bruit d'un générateur électrique. Une courte promenade le long du chemin amène les enquêteurs à l'entrée du chalet du phare. Sa porte d'entrée est légèrement entrouverte et on peut voir une lueur constante venant de l'intérieur. De chaque côté de la porte se trouve une fenêtre ; de fins rideaux sont tirés sur les deux, mais une lumière chaude et accueillante brille à travers celles de gauche. Le chemin se poursuit jusqu'à l'arrière du phare.
+Un roulage réussi de Spot Hidden révèle de petites empreintes de pas boueuses, semblables à celles d'un animal, devant la porte du chalet principal, mais, sous celles-ci, se trouvent des empreintes de bottes distinctes, seulement partiellement obscurcies par les traces de pas superposées. Un rouleau réussi de Natural World ou Science (Biologie ou Zoologie) conclut que les petites empreintes de pas ressemblent à celles d'un canard dans la nature ; un succès difficile suggère qu'il y a quelque chose d'inhabituel dans ces empreintes de pas, comme si elles pouvaient appartenir à une espèce encore non identifiée.
+Au fur et à mesure que les enquêteurs examinent les empreintes, l'océan devient de plus en plus rude, car la tempête dont les marins les avaient avertis commence à déferler. La pluie commence à tomber du ciel. Si les empreintes ne sont pas suivies rapidement, elles peuvent être perdues à jamais, car la pluie rendra le suivi impossible.
+
+Un roulis de pilote (bateau) réussi est nécessaire pour déloger la barque de l'épave sans qu'elle ne s'écrase sur les rochers voisins. Si le lancement est raté, ou si un lancement poussé échoue, la barque est percée pendant les tentatives pour la libérer et
+commence à couler, obligeant tous les enquêteurs à nager jusqu'au rivage. Le Gardien peut demander des rouleaux de nage s'il le souhaite, mais, comme la plupart des enquêteurs ont tendance à ne pas savoir nager, il y a un risque qu'un ou plusieurs enquêteurs se noient avant d'atteindre l'île. Nous suggérons qu'en raison de la proximité de l'île, après avoir beaucoup barboté, les enquêteurs arrivent à terre, froids, mouillés, battus et meurtris par leur épreuve - ainsi, si un rouleau de natation est effectué, ils arrivent plus vite sur l'île, tandis qu'un rouleau raté signifie qu'ils sont projetés dans l'eau mais qu'ils se retrouvent rapidement sur l'île. Pendant ce temps, les enquêteurs peuvent voir clairement les lumières à la base de la structure combinée du chalet et du phare.
+
+BEACON MORT
+
+Carte de l'île Beacon
+
+Une petite jetée et un quai se trouvent sur la rive nord de l'île Beacon. Les enquêteurs à la rame ou à la nage peuvent s'en sortir dans la pénombre - c'est de loin l'endroit le plus sûr pour débarquer
+
+LE PHARE SANS LUMIÈRE
+Note à l'attention du gardien : à ce stade, les joueurs peuvent décider de diviser leurs enquêteurs, certains suivant les traces de pas (Si suivre les traces de pas, ci-dessous) tandis que d'autres entrent dans le chalet (Le chalet du phare, page 13). L'attaque imminente des jeunes (An Amphibious Assault, page 20) peut être programmée en fonction de vos objectifs et les ramener tous ensemble à l'intérieur du chalet, une fois que ceux qui sont à l'extérieur ont trouvé le corps de Turner et ont eu l'occasion de l'examiner (The Thicket, ci-dessous). Si vos enquêteurs se séparent, veillez à vous déplacer entre les deux groupes de joueurs pendant qu'ils explorent, afin qu'un groupe ne reste pas assis sans rien à faire pendant de longues périodes. Si le groupe se sépare, que ce soit maintenant ou à l'intérieur du phare, il faudra plus d'une heure pour exécuter le scénario.
+
+CRÉER UNE TENSION
+Tout le temps que les enquêteurs sont à l'extérieur, ils ne sont pas seuls. N'oubliez pas qu'il y a de nombreux jeunes qui errent sur l'île à la recherche des pièces manquantes ; cependant, vous ne voulez pas les révéler tout de suite. Au lieu de cela, pour créer une tension et effrayer les enquêteurs, vous pourriez mentionner d'étranges bruissements qui n'ont rien à voir avec le vent qui monte, des formes bizarres à moitié aperçues du coin de l'œil et un sentiment distinct d'être observé. Si vous le voulez vraiment, vous pouvez demander un rouleau combiné d'écoute et de repérage des objets cachés, mais s'ils voient ou entendent quelque chose, c'est déjà loin au moment où ils poursuivent leur enquête.
+
+SI SUIVANT
+LES EMPREINTES DE PIEDS
+
+Un essai réussi sur la piste permet de déterminer que les traces de pas d'animaux sont venues de la direction du fourré, tandis que les empreintes de bottes mènent de la porte d'entrée du chalet jusqu'aux arbres. Comme elles sont en dessous, les empreintes de bottes doivent avoir été faites en premier. Le suivi de ces empreintes conduit finalement au corps de Michael Turner, caché dans la forêt voisine (The Thicket, à suivre).
+Le sentier qui contourne le chalet se ramifie rapidement. Une branche mène à une autre porte, celle de la cuisine. La branche principale se poursuit au-delà du phare jusqu'à une douche extérieure rudimentaire (une baignoire avec une pomme de douche et un auvent en bois au-dessus, alimentée par une citerne d'eau de pluie au sommet de l'auvent) et une toilette extérieure, avant de se frayer un chemin à travers le fourré de l'île jusqu'à la jetée sur la rive sud. Juste à côté du chemin et derrière le phare se trouvent deux hangars. Le plus petit abri contient un générateur électrique en marche et de grandes quantités d'essence et de bois de chauffage. Il y a une fuite dans le toit du hangar du générateur. Des gouttes de pluie l'ont traversé et ont éclaboussé les équipements électriques situés en dessous. Tous les matériaux nécessaires pour réparer le toit se trouvent dans l'atelier voisin, bien qu'il faille pour cela un rouleau d'art/artisanat (comme la menuiserie) ou un rouleau de réparation mécanique.
+Le deuxième hangar, plus grand, est évidemment un atelier, contenant divers matériaux, des pièces mécaniques, des outils, des lampes à huile et un établi. Les enquêteurs peuvent rapidement fabriquer une arme en utilisant les nombreux outils trouvés dans cette pièce ; ces armes improvisées infligent 1D4 points de dégâts (plus tout bonus de dégâts). Il y a également un marteau, ainsi que des clous et des tôles ondulées, qui peuvent être utilisés pour réparer le toit de la remise du générateur, ainsi que de nombreux tournevis et ciseaux qui pourraient être utilisés pour ouvrir le tiroir verrouillé du bureau (L'Étude, page 13).
+
+Le bosquet
+
+Si les enquêteurs ont réussi à retrouver les traces de pas le long du chemin, ils tombent bientôt sur un corps hideusement mutilé, celui de Michael Turner. C'est un désordre sanglant ; ses entrailles ont été arrachées de son corps, entaillées et piétinées dans la terre. À côté du cadavre gît un
+lanterne. Il est évident qu'il est mort récemment. Trouver le corps coûte aux enquêteurs 1/1D4+1 points de santé. Si l'agent du Bureau est en jeu et que c'est lui qui trouve le corps, alors sa perte de santé mentale est de 1/1D6.
+Un jet de Premiers Secours ou de Médicaments permet de découvrir ce qui suit :
+- Un succès régulier révèle que Turner a probablement été déchiqueté par une sorte d'animal, car il y a des dents et des marques de griffes bizarres sur le corps.
+- Un succès difficile révèle que Turner a péri très récemment : au cours de la dernière heure, en fait.
+- Un succès extrême révèle de petites aiguilles enfoncées profondément dans sa peau.
+
+Si les aiguilles sont découvertes, un rouleau de Hard Natural World ou Science (Biologie ou Zoologie) réussi conclut qu'elles semblent être une sorte de colonne vertébrale animale, et qu'elles sont très probablement toxiques. Si les enquêteurs fouillent le corps de Turner, ils trouvent un étui vide dissimulé et un badge du Bureau d'investigation révélant que le vrai nom du mort est Warren Thomas. Si l'agent du Bureau est présent, ils peuvent le confirmer, s'ils le souhaitent. Bien sûr, ils n'ont peut-être pas révélé aux autres enquêteurs qu'ils sont un agent du gouvernement, et
+
+Un rouleau "Spot Hidden", en conjonction avec les jumelles trouvées dans "The Study" (page 13), révèle ce qui suit : il se peut donc que vous vouliez garder le silence sur la question pour l'instant. Un revolver à six balles, un Smith and Wesson .38 Special, se trouve emmêlé dans les entrailles de Turner ; sa chambre ne contient plus que cinq balles "réelles", ainsi qu'une douille vide. Quoi qu'il ait attaqué Turner, il n'a eu la chance de tirer qu'une seule fois avant que cela ne le fasse tomber. Le revolver inflige 1D10 de dégâts lorsqu'il est tiré avec succès sur un adversaire.
+- Un succès régulier fait que les enquêteurs remarquent une petite lumière (une lanterne possédée par le profond hybride sur le rivage de Folly Point).
+- Un succès difficile identifie une autre barque jaune amarrée sur la jetée continentale.
+- Un succès extrême révèle que les deux chaloupes jaunes semblent être exactement de la même taille et du même modèle.
+
+Quai sud
+
+Les enquêteurs qui poursuivent leur chemin dans la forêt trouvent une autre jetée usée. Une barque peinte en jaune y est attachée. Au loin, on aperçoit les lumières d'une petite ville et, au sud-sud-ouest, on aperçoit certaines des célèbres carrières de granit de Rockport.
+
+Note à l'attention du gardien : dans un jeu plus long, vous pourriez permettre aux enquêteurs de s'aventurer sur le continent en bateau pour affronter le profond hybride qui y attend, ainsi que de trouver éventuellement
+
+DES ENQUÊTEURS FOUS
+N'oubliez pas : si un enquêteur perd 5 points de santé mentale ou plus en une seule fois, ou s'il parvient à perdre un cinquième ou plus de sa santé mentale de départ au fil du scénario, il y a toutes les chances qu'il devienne temporairement ou indéfiniment fou. Pour faciliter le suivi de ces chiffres, les points d'équilibre mental de départ de chacun des enquêteurs prégénérées sont donnés ci-dessous, ainsi que le nombre de points qu'ils doivent perdre pour succomber à une folie indéfinie. Des suggestions d'épisodes de folie et d'actions involontaires pour cause de folie temporaire ou indéfinie sont également incluses - chaque épisode de folie dure 1D10 tours.
+
+Le marchand d'antiquités
+
+Le biologiste marin
+
+- SAN : 50
+- La folie indéfinie : quand 10+ points sont perdus.
+- Action involontaire : lâcher tout ce qu'ils tiennent.
+- Folie : paranoïa ; devient convaincu que tout le monde connaît son passé et a l'intention de le dénoncer à la police à la première occasion. "Pourquoi me regardez-vous comme ça ? Qu'est-ce que vous en savez ? Dites-le-moi ! Dis-moi !"
+
+SAN : 60
+La folie indéfinie : quand 12+ points sont perdus.
+Action involontaire : se fige sur place.
+Folie : ne peut rien faire d'autre que de réciter les noms des espèces marines sur un ton de voix étranglé. "Homarus americanus". Callinectes sapidus. Centropristis striata. Prionace glauca. Cynoscion regalis..."
+
+L'artiste
+
+L'agent du Bureau
+
+- SAN : 65
+- La folie indéfinie : quand 13+ points sont perdus.
+- Action involontaire : tire dans une direction aléatoire (si elle est tenue), ou lance l'objet le plus proche à portée de main sur une cible aléatoire.
+- Folie : toute la situation est devenue trop difficile à supporter, l'agent du Bureau tente de s'enfuir. "Je ne peux plus supporter ça. Cet endroit. Vous autres. Je m'en vais, et vous ne pouvez rien faire pour m'arrêter !"
+
+SAN : 60
+La folie indéfinie : quand 12+ points sont perdus.
+Action involontaire : s'évanouit pendant un tour. Folie : soit l'ichtyophobie (peur des poissons), soit la thalassophobie (peur de la mer ou des voyages en mer), selon ce qui déclenche la folie.
+
+LE PHARE SANS LUMIÈRE
+Avec des signes étranges et des motifs inquiétants. Un jet occulte réussi détermine que les sceaux ont une signification plus profonde inconnue des enquêteurs, mais qu'ils sont similaires à ceux utilisés par les tribus religieuses éloignées dans les mers du Sud. Un rouleau Art/Craft ou Monde naturel réussi identifie un thème aquatique sous-jacent aux dessins des pièces.
+
+le cadavre du pauvre Samuel Smith ; cependant, pour une partie d'une heure, nous recommandons de garder les enquêteurs confinés à l'île. Le bateau jaune a peut-être été endommagé par la mer de plus en plus houleuse. Ou peut-être que les vagues sont tout simplement trop hautes pour tenter une tentative sur le continent dans une barque aussi minuscule et fragile. Peut-être serait-il préférable que les enquêteurs trouvent une radio pour pouvoir appeler à l'aide ?
+Bien sûr, si les enquêteurs ne se rendent pas sur la jetée sud avant d'avoir découvert le mystère et de s'être occupés des jeunes, le bateau pourrait alors leur servir de moyen de fuite. Mais il y a aussi cet hybride profond qui les attend de l'autre côté...
+
+Note à l'attention du gardien : les listes "Appréciation", "Occulte", "Art et artisanat" ou "Monde naturel" peuvent être combinées si un enquêteur possède certaines ou toutes les compétences nécessaires. Quelles que soient les compétences qu'il réussit à combiner, il acquiert l'élément d'information associé. Et si un enquêteur échoue à une partie du rôle, un autre peut toujours tenter sa chance s'il possède également la compétence appropriée.
+
+LE PHARE
+COTTAGE
+
+Au-delà de la porte d'entrée partiellement ouverte, un couloir mène aux quatre pièces du cottage, deux de chaque côté du large passage : le bureau, la chambre à coucher, la cuisine et le garde-manger. Au bout du couloir se trouve un escalier en colimaçon qui mène à la salle de service du phare. Bien que toutes les pièces semblent être équipées d'ampoules électriques, seules les lumières du bureau sont actuellement allumées. Il est à espérer que les chercheurs qui ont vu la lumière, et qui ont entendu ou vu que le générateur est en parfait état de marche, se demanderont pourquoi le phare s'est éteint alors qu'il est évident que le courant est toujours présent.
+
+L'étude contient trois fauteuils, situés à peu près au centre de la pièce. En plus de la porte du hall, il y a une autre porte qui mène à la cuisine. En ce qui concerne les meubles, outre les fauteuils, il y a une table à gauche de la porte du hall et un bureau à roulettes sur le mur extérieur, près de la porte de la cuisine. Tous deux ont leur propre chaise en bois à côté. Celle qui se trouve près du bureau est actuellement sur le sol ; un roll INT réussi suggère que son occupant s'est levé en vitesse, faisant tomber la chaise en cours de route. La table contient plusieurs livres de contes maritimes, un livre d'oiseaux, un manuel de réparation du phare, une pipe et une pochette de tabac, une paire de jumelles, un carnet de croquis, des crayons, des peintures à l'aquarelle, des pinceaux et du papier.
+Ce qui semble être une aquarelle récemment terminée est également posé sur la table à côté d'une pile de peintures. Cette pièce semble montrer une fenêtre ; une ombre sombre aux yeux écarquillés regarde à travers la vitre. La fenêtre peut facilement être identifiée comme étant la même que celle qui se trouve à côté du bureau de l'artiste. La vue de la peinture provoque un rouleau de santé (perte de 0/1 point de santé). Un rouleau de la Nature ou de la Science (Biologie ou Zoologie) réussi détermine que les yeux de l'ombre ont l'air bulbeux et semblent être placés presque sur le côté de sa tête, comme l'anatomie d'un poisson ou d'une grenouille. Un rouleau d'art/artisanat réussi (comme la peinture ou le croquis) suggère que cette pièce a été exécutée à la hâte - elle n'a pas le soin et la finesse de l'autre
+des peintures sur la table.
+En feuilletant les nombreuses aquarelles soigneusement empilées, une image de plus attire l'attention des enquêteurs. Elle représente le fourré voisin, car on peut y voir le phare et un ou deux autres petits bâtiments. Dans l'obscurité du chemin qui mène dans le fourré se trouve la silhouette d'un homme. Contrairement à la première peinture, celle-ci est datée : 14 février 1926. Le carnet de croquis contient une esquisse correspondant à la date de la veille. Il n'y a pas d'esquisse correspondante pour le premier tableau.
+
+Couloir
+
+Le couloir n'est pas éclairé actuellement, et la lumière de l'étude devrait, espérons-le, attirer les chercheurs à cet endroit. Si la lumière du couloir est allumée, la première chose que l'on remarque, ce sont les trois crochets à vêtements près de la porte, dont un seul porte actuellement une peau cirée bien usée. Deux paires de galoches se trouvent dans un plateau peu profond juste sous les patères ; il y a de la place pour une autre paire, tandis qu'une paire de chaussures d'intérieur se trouve à côté du plateau. Deux lanternes à huile sont suspendues à des crochets à côté du ciré ; il y a également un crochet vide, ce qui suggère une
+La lampe est manquante. Tant que la lumière est allumée, un rouleau Spot Hidden réussi remarque deux balles logées dans le sol du couloir ; sinon, il faut un succès extrême pour les repérer. Un rouleau réussi d'armes à feu (pistolet) ou INT détermine que les balles ont été tirées par une personne placée à quelques marches de la cage d'escalier en colimaçon.
+Des éclaboussures de sang conduisent de la porte de la cuisine à l'escalier. Si vous le découvrez, demandez un jet de Sanity (perte de 0/1 points Sanity) où trois grosses pièces dorées sont jetées par terre. Un rouleau d'évaluation réussi identifie les pièces comme étant en or massif. Un côté des pièces semble représenter une sorte d'obélisque, tandis que l'autre est recouvert.
+
+LE PHARE SANS LUMIÈRE
+Alors que le dernier est daté du 2 avril 1926. Ce dernier est celui d'une Miss Anna Tilton de la Newburyport Society (Document : Lightless 1). Le bureau a également deux tiroirs. Le tiroir de gauche est ouvert, mais une clé est cassée dans sa serrure. Le tiroir contient une boîte en bois vide dont la doublure en velours vert est conçue pour contenir un revolver. Le même tiroir contient six balles. Le tiroir de droite est fermé à clé - la serrure peut être forcée avec un rouleau de serrurier, ou forcée avec un rouleau de STR et un couteau de cuisine, ou un tournevis ou un ciseau, comme on peut en trouver dans l'atelier à l'extérieur (Si l'on suit les traces, page 11). S'il est ouvert, le tiroir contient un petit journal appartenant à George Cassidy (document : Lightless 2). Sur la couverture du journal se trouve une ébauche d'obélisque, de la même image que celle trouvée sur les pièces (si les enquêteurs les ont vues). La dernière entrée se coupe brusquement, comme si Cassidy avait été interrompu pendant qu'il l'écrivait.
+
+Le bureau à roulettes de l'autre côté de la pièce est fermé mais non verrouillé. En l'ouvrant, on découvre une tasse de café à moitié vide et encore chaude, ainsi que beaucoup de papier à lettres : enveloppes, timbres, papier, bouteilles d'encre et stylos. Un tas de factures d'expertises de pièces de monnaie provenant de divers magasins d'antiquités de Rockport jonchent le reste du bureau ; les devis vont de deux à cinq dollars, et tous sont datés de fin février 1926. Si les pièces ont été trouvées dans le couloir, alors un rouleau d'évaluation réussi se rend compte que, si certains des magasins ont demandé un prix équitable, d'autres ont manifestement tenté de profiter de celui qui faisait évaluer les pièces.
+Sous un grand catalogue de pièces, on trouve plusieurs lettres provenant de magasins d'antiquités, de bibliothécaires et d'universités plus éloignés. Chaque lettre commence par "Cher M. Cassidy", suivie d'excuses, expliquant que l'expéditeur n'est pas en mesure de déterminer l'origine des pièces décrites dans la correspondance reçue ; cependant, toutes les lettres indiquent qu'elles souhaitent vivement voir un échantillon réel afin de pouvoir effectuer une analyse correcte et approfondie. Une liste d'utilisation réussie de la bibliothèque révèle que les lettres sont en grande partie dans l'ordre chronologique ; la première est datée du 8 mars 1926,
+
+Note au gardien : si l'antiquaire est présent, il reconnaît l'écriture de Cassidy et la référence à lui-même (entrée du 16 février).
+
+LA BALISE SANS LUMIÈRE
+
+Cuisine
+
+Chambre à coucher
+
+La cuisine a des assiettes sales et une casserole dans l'évier, une table avec trois chaises, et trois portes : une menant à l'extérieur, une au couloir et une au bureau. Un petit poêle à bois se trouve dans le coin le plus éloigné ; une bouilloire encore chaude se trouve sur l'âtre à côté. Une des chaises est cassée sur le sol ; il y a une petite mare de sang sur le sol à côté. Un test INT réussi suggère que la chaise a pu être utilisée comme une arme, tandis qu'un test de premiers secours ou de médecine réussi détermine que la mare de sang est récente et s'est formée au cours de la dernière heure ; un test difficile avec l'un de ces tests suggère que le sang n'est pas tout à fait normal, tandis qu'un test extrême suggère qu'il n'est peut-être pas d'origine humaine.
+Dans l'un des tiroirs de la cuisine se trouve le seul couteau de cuisine tranchant disponible. L'un des enquêteurs peut vouloir l'attraper pour l'utiliser comme arme (1D3 de dégâts, plus tout bonus de dégâts) ou, alternativement, l'utiliser pour forcer l'ouverture du tiroir verrouillé du bureau.
+
+La chambre à coucher contient trois lits bien faits. Une grande pile de livres est rangée dans un coin de la chambre. Il y a également trois grandes armoires, chacune contenant du savon, des serviettes, de la literie fraîche et des couvertures supplémentaires. Celles de Turner et de Cassidy contiennent divers vêtements et quelques petits effets personnels ; celle de Smith ne contient que le linge de maison et les serviettes. Un rouleau à succès de Spot Hidden trouve une pièce d'or, six balles perdues et un carnet de poche (Handout : Lightless 3) fourré dans le matelas de Turner. Si l'agent du Bureau est présent, il gagne un dé bonus sur le jet, car il a une bonne idée de l'endroit où chercher ce que son collègue a pu cacher. Turner était stationné sur l'île Beacon en tant qu'agent d'infiltration pour suivre les navires illégaux le long des routes commerciales populaires après avoir découvert une partie de la coque d'un bateau non marqué dans les eaux voisines.
+
+Larder
+
+Le magasin d'alimentation du phare est rempli d'étagères, toutes soigneusement empilées avec toutes sortes d'aliments séchés, en conserve et en boîte - assez pour voir passer trois personnes si elles sont coupées du continent pendant plusieurs mois.
+
+Polycopié : Sans lumière 3
+
+Salle de service du phare
+
+Les enquêteurs qui montent les escaliers dans le couloir finissent par atteindre la salle de service du phare, située juste en dessous de la salle des lanternes. On peut voir le mécanisme utilisé pour faire tourner la lampe, monté au plafond, et d'après le bruit, il semble fonctionner encore. Une série de marches séparées mène, par une trappe, à la salle de la lanterne située au-dessus. Plusieurs boîtes y sont entreposées ; chacune contient une ampoule de rechange pour le phare. Il y a également un petit établi et une trousse à outils. Sur l'établi se trouve un registre des différents contrôles de service effectués sur le phare. Un rouleau de réparation mécanique ou électrique réussi détermine que la majorité des contrôles sont purement de routine ; cependant, une entrée se distingue : le 12 février 1926, des problèmes de câblage ont fait que l'ampoule du phare a brûlé prématurément. Le registre indique comment le court-circuit électrique causé par la défaillance de l'ampoule, associé à la forte tempête, a entravé les réparations, ce qui signifie que le phare est resté dans l'obscurité pendant plusieurs heures.
+
+Note du gardien : cette défaillance a directement entraîné le naufrage du navire Innsmouthbound. En face de l'établi se trouve une table avec un poste de radio en semi-état de délabrement. Un rouleau de réparation électrique réussi répare la radio avec facilité. S'ils le souhaitent, les enquêteurs peuvent maintenant lancer un appel à l'aide aux gardes-côtes locaux, qui, en fouillant les différents corps, révèlent plusieurs points d'intérêt. Le corps le plus proche des escaliers a une apparence très étrange. L'homme, vêtu d'un lourd imperméable à capuche, semble avoir une tête étroite et des pans de peau prononcés autour du cou et des bajoues. Il semble également souffrir d'une sorte d'affection cutanée, à en juger par son teint gris et rugueux. Ses yeux globuleux et larmoyants fixent le cadavre de Cassidy sans le voir. Un bilan de premiers secours ou de médecine réussi confirme qu'il a été touché deux fois et que ces blessures par balle ont entraîné sa mort.
+Un poisson mort se trouve à côté de l'homme étrange. Lui et celui qui était attaché au corps de Cassidy ont tous deux été touchés, l'un par l'œil, l'autre par le ventre. Au-delà de l'apparence évidente de poisson et de la nature amphibie de la créature, cette espèce de poisson n'est consignée nulle part dans aucun livre connu des enquêteurs (pas de rouleau nécessaire si le biologiste marin est présent ; un rouleau réussi de Natural World ou de Science (Biologie ou Zoologie) s'il ne l'est pas). Ces étranges poissons de mer semblent être extrêmement mobiles sur terre grâce à leurs pattes musclées, et parfaitement à l'aise dans l'eau grâce à leurs nageoires et leurs branchies. Le roulis du monde naturel ou de la science (biologie ou zoologie) mentionné plus haut, lors de l'inspection des poissons, révèle également ce qui suit : la promesse d'envoyer quelqu'un pour les sauver dès que
+possible. Un rouleau poussé qui a échoué rend la radio inutilisable en permanence. La chaise de la table de la radio semble avoir été renversée et doit être déplacée pour accéder aux marches de la salle des lampes.
+
+Balise de phare
+
+Les enquêteurs qui arrivent dans la salle des lanternes sont accueillis par une scène humide et sanglante. Deux vitres des fenêtres de la salle de la lanterne ont été brisées d'une manière ou d'une autre ; leurs restes brisés crissent sous les pieds. La pluie s'infiltre par les interstices, rendant la terrasse métallique glissante sous les pieds. Le sang des cadavres de deux hommes, ainsi que celui de deux poissons bizarres (voir les jeunes dans les profils de monstres, page 22), qui se trouvent dans les limites étroites de la pièce, ajoutent à la glissance. L'un des poissons morts est accroché au cou de l'un des hommes par les dents, même dans la mort. Le fait d'être témoin du tableau sanglant provoque un jet de santé (1/1D4+1 perte ; 1/1D6 pour le marchand d'antiquités, s'il est présent).
+
+Note pour le gardien : si l'antiquaire est présent, il reconnaît le corps comme celui de son ancien collègue, George Cassidy.
+
+Les cadavres des jeunes et des hybrides
+
+UN AMPHIBIEUX
+ASSAULT
+
+- Un succès régulier indique que les balles qui sont entrées dans les deux créatures ne les ont tuées que parce qu'elles sont entrées dans les parties les plus molles, les plus charnues et les plus vulnérables de leur corps. Le reste de leurs écailles extérieures, bien que pénétrables, sont grossières et dures, fournissant sans doute aux créatures une forme d'armure naturelle. De toute évidence, Cassidy a été un tireur "chanceux", pour tout le bien qu'il lui a fait.
+- Un succès difficile révèle des aiguilles gluantes cachées dans les nageoires dorsales des créatures. Si les enquêteurs ont déjà découvert les aiguilles dans le cadavre de Turner, ils les reconnaissent immédiatement. Sinon, les enquêteurs concluent que les aiguilles sont plus que probablement utilisées comme arme à projectiles contre des proies.
+- Un succès extrême suggère que les aiguilles sont sans aucun doute recouvertes d'un poison produit par l'homme, bien que la nature exacte du venin ne puisse être déterminée sans des tests de laboratoire appropriés.
+
+Une fois que les enquêteurs ont eu la chance d'explorer pleinement le phare et son chalet, ou, s'ils ont plutôt suivi le sentier, une fois qu'ils ont eu le temps d'explorer l'île et de trouver le corps de Turner, il est temps pour les jeunes restants de lancer leur assaut. Pas les plus brillantes des créatures, celles de l'extérieur - celles qui ont tué Turner - ont parcouru l'île à la recherche de pièces de monnaie, comme leur a demandé leur unique maître hybride. Mais le temps a passé, et maintenant ils ont réalisé qu'ils ne sont pas seuls sur l'île. Ainsi,
+ils suivent leur autre consigne : s'occuper de tous ceux qui les gênent pour récupérer les pièces manquantes.
+
+À travers les bois
+
+S'il y a des enquêteurs dans le fourré ou à la jetée sud, un rouleau combiné réussi d'écoute et de repérage de la cachette les avertit de tout mouvement à proximité. En se tournant vers le son ou l'éclair de mouvement, ils se rendent compte qu'un certain nombre de créatures laides et ressemblant à des poissons se déplacent régulièrement vers eux depuis les arbres (voir les jeunes dans les profils de monstres, page 22). Le nombre de jeunes est déterminé par le nombre d'enquêteurs présents : un par enquêteur. La vue des créatures provoque un jet de Sanity (perte de 1/1D4).
+
+Le dernier cadavre est celui de Cassidy. Caché sous la chemise du défunt gardien de phare se trouve une lourde bourse remplie d'étranges pièces d'or, attachée autour de son cou sur un épais cordon de cuir. Un six-coups - un Colt M1877 - est tenu fermement dans ses mains encore chaudes. Toutes les balles de la chambre ont été utilisées. Le revolver semble correspondre à la taille et à la forme de celui qui manquait dans le tiroir du bureau en bas, et inflige 1D8 de dégâts par coup, une fois rechargé. Si l'on tient compte des deux balles de l'homme étrange et des deux balles des poissons, deux balles sont toujours manquantes. Un rouleau Spot Hidden réussi identifie un trou de balle dans la lentille de la lampe ; la balle qui l'a causé semble avoir brisé l'ampoule à l'intérieur avant de continuer à briser une des vitres manquantes de la lanterne
+de verre. Cela explique au moins pourquoi le phare a cessé de fonctionner à 20 heures ce soir. On peut facilement supposer que la deuxième vitre brisée a été détruite par l'autre balle.
+Toute personne ayant au moins 20 % d'expérience en réparation mécanique sait que, sans une lentille de remplacement, il est impossible de remettre le phare en parfait état de marche. S'ils ont fouillé la salle de service, les enquêteurs savent qu'il n'y en a pas en stock ; cependant, le remplacement de l'ampoule affecterait une réparation temporaire - cela prendrait au moins 40 minutes et un rouleau de réparation mécanique réussi. Malheureusement, le temps ne joue pas en faveur des enquêteurs, car les jeunes restants sur l'île ont pris conscience de la présence des enquêteurs et se préparent à lancer une attaque.
+
+Note : si vous voulez vraiment augmenter la pression, il peut y avoir plus de jeunes que d'enquêteurs ; cependant, les jeunes peuvent s'avérer être des adversaires assez difficiles, selon les compétences des enquêteurs. Si des combats sont susceptibles d'avoir lieu, nous vous recommandons de vous en tenir à un jeune par enquêteur - pour l'instant, en tout cas. Mais si votre plan est d'encourager les enquêteurs à fuir vers le phare, la vue de plus de créatures que ce qu'ils peuvent espérer affronter devrait leur donner toute l'incitation nécessaire pour battre une retraite précipitée.
+Les enquêteurs sont maintenant confrontés à un choix : s'enfuir ou se battre. S'ils décident de se battre, alors le combat se déroule normalement. Si les enquêteurs survivent, ils ont alors le choix entre se diriger vers le phare ou essayer de s'échapper en barque (voir la note du gardien, quai sud, page 12). S'ils se dirigent vers le phare, alors, si le Gardien le souhaite, d'autres jeunes pourraient apparaître pour les poursuivre. Si les enquêteurs sont poursuivis par une horde de jeunes, le Gardien peut souhaiter utiliser les règles de poursuite (Call of Cthulhu : Keeper Rulebook, chapitre 7), en utilisant les obstacles appropriés pour les empêcher de s'échapper. Si les règles de poursuite ne sont pas appliquées, il suffit d'un jet de DEX contre les jeunes pour que les enquêteurs se rendent à la cabane du phare.
+
+LE PHARE SANS LUMIÈRE
+Les jeunes ont maintenant un dé de pénalité appliqué à leur jet associé - si vous prévoyez une épreuve de force dans la salle des lanternes, nous vous suggérons de ne pas demander ce jet de chance, car l'effet de deux dés de pénalité rend très difficile la réussite des enquêteurs. Quant à la rencontre à l'extérieur du phare, il y a un jeune pour chaque enquêteur. Il peut y en avoir d'autres, si le Gardien le souhaite, en fonction de la façon dont ils jouent le jeu (voir la note du Gardien, "assiégé", à proximité).
+Bien que les jeunes aient un petit nombre de points de vie, leur armure naturelle et leur capacité à infliger des dégâts importants en font des ennemis redoutables. Si les enquêteurs sont conscients de leurs points faibles après avoir examiné les corps dans la salle des lanternes, ils peuvent alors tenter de cibler les yeux et le ventre des jeunes pendant le combat. Cela inflige un dé de pénalité sur leur jet d'attaque, mais un succès signifie que leur but était vrai et que l'armure de la créature peut être ignorée. Sinon, l'armure du jeune doit être soustraite de tous les dommages infligés.
+
+et la sécurité (relative). Tout enquêteur qui échoue est déclenché par un jeune et doit se battre pour survivre, ou tenter de s'échapper et de s'enfuir (une manœuvre de combat (bagarre) réussie) ; s'il rate le jet de DEX ou s'il échoue en poussant le jet, il disparaît sous une horde de jeunes qui mordent et grattent, pour ne plus jamais être revus.
+
+En état de siège
+
+Si certains des enquêteurs sont entrés dans le phare pendant que d'autres exploraient l'île, la première chose qu'ils savent de l'attaque des jeunes est que leurs compagnons, sans doute paniqués, ont fait irruption dans le chalet pour y chercher refuge. Cela donne aux enquêteurs l'occasion de se barricader dans le phare et de mettre au point un plan hâtif pour se défendre contre leurs petits mais dangereux assaillants. Cela peut inclure la réparation de la radio pour appeler à l'aide, s'ils ne l'ont pas déjà fait.
+
+Note à l'attention des gardiens : si vous utilisez le phare sans lumière comme un scénario d'horreur de survie ponctuel, il n'y a aucune raison que vous ne puissiez pas avoir des vagues successives de jeunes gens qui attaquent le bâtiment jusqu'à ce que les enquêteurs soient à court de balles, d'armes improvisées ou de points d'impact - si c'est le genre de choses que vous savez que vos joueurs apprécieront. Sinon, ne les submergez pas et donnez-leur au moins une chance de survivre à la nuit.
+
+Note à l'attention du gardien : rappelez-vous qu'aucun jet ne peut entraîner plus de deux dés de pénalité à la fois et que les monstres sont censés toujours se défendre au combat, sauf s'ils sont particulièrement rusés ou intelligents - les jeunes ne le sont pas non plus.
+
+CONCLUSION
+
+Si tout le monde est entré dans le chalet pour commencer, et que personne n'a pensé à fermer la porte d'entrée, il faut alors réussir un roulement d'écoute pour entendre le bruit des pieds qui gigotent dans le chalet, ou dans les escaliers menant à la salle des lanternes. S'ils ont bien fermé la porte d'entrée, les enquêteurs sont alors avertis de l'arrivée des jeunes par le bruit des éclats de bois et de verre lorsqu'ils enfoncent la porte.
+
+Si la balise sans lumière est utilisée comme un scénario d'horreur de survie, il y a deux résultats principaux : soit tous les enquêteurs meurent, soit quelque chose arrive pour effrayer les jeunes. Ce dernier cas pourrait être aussi simple que le lever du soleil - un élément de base de nombreux bons films d'horreur - ou il se pourrait que les jeunes décident que le coût ne vaut pas la peine de continuer le combat. Si les enquêteurs ont fait fonctionner la radio, il se peut aussi que les garde-côtes arrivent pour les sauver, de plusieurs façons. Si, en revanche, le garde-côte a limité le nombre de jeunes à un ou deux par enquêteur, l'assaut s'arrête dès que tous les jeunes de l'île sont morts (ou la majorité d'entre eux). Plus personne ne vient les rejoindre, et le seul hybride profond qui attend à Folly Point décide que quelque chose a terriblement mal tourné et se retire pour repenser sa stratégie. Si les enquêteurs ont du mal mais qu'ils parviennent à appeler à l'aide par radio, les garde-côtes pourraient alors se présenter en un clin d'œil pour les sauver, juste au moment où tout semble perdu.
+
+Note du gardien : vous pouvez déclencher l'attaque du chalet avant que les enquêteurs n'aient la chance de découvrir la scène macabre du haut du phare. Si c'est le cas, les jeunes tentent de forcer les enquêteurs à monter dans la tour du phare, où ils doivent soit se mettre debout dans la salle de service, soit se battre dans la salle des lanternes ensanglantées. Toute bagarre dans la salle de la lanterne attire un dé de pénalité à tous les jets physiques en raison du sol glissant et de l'exiguïté, en plus du dé de pénalité qui peut être causé par la défaillance du générateur (voir ci-dessous). Si les enquêteurs n'ont pas réparé le toit protégeant le générateur, alors que l'attaque du chalet commence, le Gardien peut décider de demander un jet de chance collectif ; si le jet échoue, la pluie s'est intensifiée à un point tel que l'eau qui s'écoule par le toit court-circuite le générateur, plongeant le phare dans l'obscurité. Toute tentative de faire face à la
+
+Note à l'attention du gardien : si vous voulez que le scénario dure plus d'une heure, peut-être que l'hybride profond de Folly Point décide de se rendre sur l'île dans sa petite barque jaune avec quelques jeunes de plus pour voir ce qui se passe, en se présentant juste au moment où les enquêteurs pensent que l'horreur est enfin terminée. Les statistiques concernant la deep one hybrid sont disponibles dans le
+
+Section "Profils des monstres", page 23.
+
+La tête et le corps d'un jeune sont similaires à ceux d'un poisson de pêche à la ligne. Il possède des nageoires épineuses allongées, des bras musclés et ses mains possèdent trois griffes acérées. De plus, il possède de grandes pattes musclées, semblables à celles d'une grenouille, des pattes palmées et griffues comme celles d'un canard, et une longue et épaisse queue à nageoires. Ils ne sont apparentés que de loin à des espèces profondes, mais ont souvent été - à tort - identifiés comme des membres immatures de cette espèce. Les jeunes de ce scénario ont été appelés des profondeurs mêmes de l'océan pour aider les hybrides des profondeurs d'Innsmouth dans leur tentative de récupérer les pièces manquantes de George Cassidy.
+
+Si l'un des enquêteurs survit et qu'il reste du temps, permettez-leur de fouiller tous les endroits qu'ils n'ont pas encore explorés. S'ils ont trouvé la cachette de pièces de Cassidy, c'est à eux de décider quoi en faire. Espérons qu'ils ont plus de bon sens que de contacter quiconque à Innsmouth pour les pièces ! Si les garde-côtes effectuent un sauvetage, les enquêteurs devront réfléchir très attentivement à la façon dont ils répondront aux questions qui leur seront posées sur ce qui s'est passé sur l'île. Les "mauvaises" réponses pourraient bien les conduire à être emmenés sur le continent pour y être interrogés par le Bureau d'enquête dans le cadre de leurs enquêtes en cours sur la contrebande dans la région. Bizarrement, cependant, les agents du Bureau sont susceptibles de croire à leurs histoires d'étranges créatures de poisson ; cependant, les vêtements des enquêteurs sont brûlés, leurs biens confisqués et ils sont tenus au secret absolu sur les événements du 12 avril 1926.
+
+Tactique des jeunes
+
+Comme les chiens voraces, les jeunes ont tendance à poursuivre leur proie à tout prix, sauf ordre contraire d'une créature qu'ils reconnaissent comme leur supérieure, comme un hybride profond ou un profond - ils ne reconnaissent pas les humains comme supérieurs. Les jeunes attaquent d'abord en tournant le dos à leurs adversaires et en tirant une aiguille de projectile à partir de leurs nageoires dorsales dans l'espoir de les droguer et de les affaiblir, avant de passer immédiatement à une attaque de mêlée. Si vous n'utilisez pas la Balise sans lumière comme un jeu d'horreur de survie, alors, si le Gardien le souhaite, les jeunes qui réussissent à rendre un enquêteur inconscient, soit après lui avoir infligé une blessure importante, soit en les réduisant à zéro point de vie, peuvent rapidement passer à la cible suivante la plus proche. Si tous les enquêteurs finissent ainsi par perdre connaissance, les jeunes continuent à chercher les pièces d'or de Cassidy et partent dès qu'ils les ont trouvées - cela donne l'occasion aux enquêteurs inconscients de se réveiller, de faire le point sur leur situation et de trouver une nouvelle ligne de conduite.
+
+RÉCOMPENSES
+
+Attribuez aux enquêteurs survivants les points d'hygiène suivants. Le Gardien doit récompenser les enquêteurs, s'ils ont pensé à des méthodes particulièrement créatives pour lutter contre les jeunes, avec un +1D4 points d'hygiène facultatifs.
+- Tuer un jeune : +1D4 points de bon sens (maximum par enquêteur).
+- Récupérer l'or de Cassidy : +1D4 points de bon sens.
+- Survivre à l'agression des jeunes : +1D6 points de vie.
+
+Jeune fille, cauchemar en haute mer
+
+EPILOGUE
+
+STR 100 CON 40
+APP -
+POW 40
+DB : +1D4 Build : 1
+
+N'oubliez pas de conclure le scénario par un court épilogue qui permet aux joueurs de régler les derniers détails. Vous pouvez également souligner les succès obtenus par les enquêteurs. Si les enquêteurs ont décidé de vendre les pièces qu'ils ont trouvées, mentionnez qu'ils ont réussi à récolter plus qu'assez d'argent pour leur permettre de prendre de longues et agréables vacances afin de les aider à se remettre des terribles images qu'ils ont vues sur l'île Beacon. Bien que la question de savoir s'ils se sentiront un jour assez en sécurité pour se rendre à nouveau près de l'océan soit entièrement différente...
+
+SIZ 25
+DEX 80
+INT 10
+EDU - SAN -
+HP 6
+Déplacement : 8/10 nage MP : 8
+
+Combat
+Attaques par tour : 1 (aiguille, griffe, morsure)
+Aiguille de projectile : les jeunes ont des aiguilles à pointe empoisonnée qu'ils peuvent tirer à partir de leurs nageoires dorsales. Une cible peut éviter d'être touchée par une aiguille si elle réussit son jet d'esquive lorsqu'elle s'oppose à l'attaque du jeune. Cependant, les cibles qui ne sont pas préparées à l'attaque du jeune par un projectile - généralement parce qu'elles ne savent pas ce qu'un jeune qui leur tourne le dos signifie - doivent subir un dé de pénalité lors de leur jet d'esquive. Si elle est touchée, la victime doit réussir un jet de CON extrême pour ne pas être touchée par le poison. Les aiguilles elles-mêmes ne causent aucun dommage, mais le poison à action rapide.
+
+PROFILS DE MONSTRES
+
+Cette section contient les statistiques concernant le principal adversaire de la Balise sans lumière, les jeunes, ainsi que les statistiques concernant un hybride deep one, si le Gardien souhaite prolonger le scénario.
+
+LA BALISE SANS LUMIÈRE
+STR 65
+APP -
+DB : 0
+
+cause une vision floue et double pour les rounds de combat 1D6+1, ce qui donne un dé de pénalité à tous les jets de la victime pendant ce temps. Après avoir tiré une aiguille, le jeune passe en attaque de mêlée pour chaque round de combat suivant. Les jeunes qui se sont accrochés à une victime, ou qui sont en plein combat, ne peuvent pas utiliser cette capacité.
+
+CON 65
+POW 50
+Construire : 0
+
+SIZ 50
+DEX 65
+EDU-
+SAN -
+Déménagement : 8/8 de nage
+
+INT 65
+HP 11
+DÉPUTÉ : 10
+
+Combat
+Attaques par round : 1 (combat non armé, ou arme)
+Les hybrides Deep one peuvent utiliser des armes comme le font les humains.
+
+Latch : un jeune qui roule un Extreme success avec son attaque Bite se verrouille sur sa victime, causant un dommage initial de 1D3+1D4, puis 1D3 par tour par la suite. Les enquêteurs qui réussissent un jet de STR dur peuvent déloger la créature et la jeter de côté. De même, d'autres enquêteurs à proximité qui réussissent un jet de STR dur peuvent arracher un jeune à un ami. Les jeunes qui s'accrochent à une victime sont incapables d'esquiver ou d'utiliser des attaques à l'aiguille de projectile.
+
+Combattre		
+		
+Dodge		
+
+45 % (22/9), dommages 1D3
+ou par arme
+30% (12/5)
+
+Compétences
+Sauter 45 %, écouter 50 %, se faufiler 46 %, nager 60 %.
+Armure : aucune.
+Pouvoirs spéciaux : respirer sous l'eau.
+Perte de la santé mentale : 0/1D6 La santé mentale indique la présence d'un hybride profond.
+
+Combat		
+40% (20/8), dommages 1D3+1D4,
+		
+si un succès extrême avec du mordant
+		
+l'attaque, elle est suivie de 1D3
+		
+Dommage du loquet à chaque tour
+		
+par la suite jusqu'à ce qu'il soit retiré avec
+		Rouleau de STR dur
+Aiguille de projectile
+30% (15/6), voir description ci-dessus
+Dodge 		
+30% (15/6)
+Compétences
+Sentir la proie à 50%.
+Armure : échelles à 3 points. Les attaques réussies visant les yeux ou le ventre d'un jeune passent outre son armure. Ces attaques "dites de tir" subissent un dé de pénalité pour cibler ces zones spécifiques (visant le ventre ou le visage du jeune), et ne peuvent être tentées que sur l'action de l'enquêteur au combat.
+Pouvoirs spéciaux : vision nocturne - un jeune n'est pas affecté par
+l'obscurité.
+Perte de la raison : 1/1D4 La raison indique qu'il faut voir un jeune.
+
+Deep One Hybrid, progéniture tachée par la bouche
+
+Le jeune
+
+Les hybrides Deep one sont la progéniture de Deep one et des accouplements humains. Bien que la progéniture de ces unions naisse généralement en tant qu'humain normal, les changements d'apparence et de physiologie ont tendance à se produire à la fin de l'adolescence - ce que l'on appelle communément le "Innsmouth Look". À l'âge moyen, la plupart des hybrides présentent une forme de déformation grossière et ces personnes se retirent dans l'intimité de leur maison, où elles sont enfermées. En quelques années, l'hybride subit la transformation finale en un hybride profond et se lance dans une nouvelle vie dans la mer.
