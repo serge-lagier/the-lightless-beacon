@@ -2,13 +2,13 @@
 
 ## INTRODUCTION
 
-Bienvenue au Phare sans Lumière, le scénario de l'Appel de Cthulhu de cette année fait à l'occasion de la première Journée de Greg Stafford : une journée pou rendre hommage à la vie et l'œuvre de Greg et de Chaosium qu'il a fondé en 1975. Nous espérons que vous pourrez réunir des amis autour de vous et profiter ensemble de ce scénario.
+Bienvenue dans Le Phare sans Lumière, le scénario de L’Appel de Cthulhu de cette année pour la première journée Greg Stafford — une journée pour rendre hommage à la vie et l’œuvre de Greg et du symposium qu’il a fondé en 1975. Nous espérons que vous pourrez rassembler des amis et profiter ensemble de ce scénario.
 
-Le Phare sans Lumière débute sur Beacon Island, près de Rockport, dans le Massachusetts, le 12 avril 1926. Il est conçu comme un court scénario d'introduction pour les Gardiens novices, les nouveaux joueurs, ou les deux !
+Le Phare sans Lumière se déroule sur Beacon Island, près de Rockport, dans le Massachusetts, le 12 avril 1926. Il est conçu comme un court scénario d’introduction pour les Gardiens novices, les nouveaux joueurs, ou les deux !
 
-Les joueurs expérimentés et les Gardiens confirmés devraient également y trouver leur compte. Conçu pour être joué en une heure seulement, ce jeu est idéal pour ceux qui n'ont pas beaucoup de temps libre ou qui veulent simplement prendre confiance en eux avec le jeu de rôle de l'Appel de Cthulhu.
+Les joueurs et les Gardiens expérimentés devraient également y trouver leur compte. Conçu pour être joué en une heure seulement, ce scénario est idéal pour ceux qui n’ont pas le temps de jouer plus longtemps ou qui veulent simplement prendre confiance en eux avec le jeu de rôle L’Appel de Cthulhu.
 
-Bien que « *The Lightless Beacon* » soit présenté comme une aventure autonome et soit livré avec quatre investigateurs prétirés (vous permettant de plonger directement dans l'histoire), il pourrait également constituer le début d'une nouvelle campagne, car il réunit de parfaits étrangers et les immerge dans le monde des mythes de Cthulhu avant même qu'ils n'aient la chance de prendre leur souffle. Il y a un mystère à résoudre, une menace à surmonter et un aperçu des véritables horreurs qui se cachent dans l'obscurité : autant de thèmes clés d'une bonne aventure l'Appel !
+Bien que Le Phare sans Lumière soit présenté comme une aventure autonome et soit livré avec quatre enquêteurs générés (vous permettant de plonger directement dedans), il pourrait également constituer le début d’une nouvelle campagne, car il réunit de parfaits étrangers et les plonge dans le monde des mythes de Cthulhu avant qu’ils n’aient la chance de reprendre leur souffle. Il y a un mystère à résoudre, une menace à surmonter et un aperçu des véritables horreurs qui se cachent dans l’obscurité : autant de thèmes clés pour constituer une bonne aventure de L’Appel de Cthulhu !
 
 ## DÉROULEMENT DU SCÉNARIO
 
