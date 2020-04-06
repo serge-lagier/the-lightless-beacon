@@ -19,12 +19,12 @@
 |-----------------------|-------------------------------|------------------------------|
 | Introduction          | Namour / Thibault             | Fait
 | Running the game      | Namour / Thibault             | Fait
-| Scenario overview     | Namour / Thibault             | Relecture en cours
-| Background            | Namour                        | Fait
+| Scenario overview     | Namour / Thibault             | Fait
+| Background            | Namour / Thibault             | Fait
 | Spending Luck         | Laurendi                      | En cours
-| Setting Up            | Namour                        | Fait
-| Start: Choppy Waters  | Namour                        | Fait
-| Dead Beacon           | Namour                        | Fait
+| Setting Up            | Namour / Thibault             | Fait
+| Start: Choppy Waters  | Namour / Thibault             | Fait
+| Dead Beacon           | Namour / Thibault             | Seconde Relecture en cours
 | Following Footprints  |                               |
 | Building Tension      | Namour                        | En cours
 | Insane Investigator   |                               |
