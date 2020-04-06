@@ -6,12 +6,12 @@
 
 ## Suppression des retours à la ligne et traduction automatisée avec DeepL
 
-* https://raw.githubusercontent.com/lraboteau/casus/master/cthulhu/the-lightless-beacon-call-of-cthulhu.txt
-* https://raw.githubusercontent.com/lraboteau/casus/master/cthulhu/le-phare-sans-lumiere.txt
+* https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/the-lightless-beacon-call-of-cthulhu.txt
+* https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/le-phare-sans-lumiere.txt
 
 ## Création d'un brouillon formaté en Markdown
 
-* https://raw.githubusercontent.com/lraboteau/casus/master/cthulhu/le-phare-sans-lumiere.md
+* https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/le-phare-sans-lumiere.md
 
 ## Tableau d'intervention
 
@@ -33,3 +33,10 @@
 | Conclusion            |                               |
 | Monster Profiles      |                               |
 | Monstres & persos COC | Gobo                          | En cours
+
+## Contributeurs
+
+* Gobo
+* Laurendi
+* Namour
+* Thibault
