@@ -25,7 +25,7 @@
 | Running the game      | Namour / Thibault / Laurendi  | Fait
 | Scenario overview     | Namour / Thibault / Laurendi  | Fait
 | Background            | Namour / Thibault / Laurendi  | Fait
-| Spending Luck         | Laurendi                      | A relire
+| Spending Luck         | Laurendi / Thibault           | Relecture en cours
 | Setting Up            | Namour / Thibault / Laurendi  | Fait
 | Start: Choppy Waters  | Namour / Thibault / Laurendi  | Fait
 | Dead Beacon           | Namour / Thibault / Laurendi  | Seconde Relecture en cours
