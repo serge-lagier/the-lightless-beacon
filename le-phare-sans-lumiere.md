@@ -44,14 +44,14 @@ Quatre investigateurs prétirés sont fournis pour être utilisés avec *Le phar
 Si les joueurs décident tout de même d’utiliser ces investigateurs plutôt que de créer les leurs, faites-leur lire attentivement leurs fiches de personnages avant le début de la partie afin qu’ils puissent utiliser les informations incluses pour guider leurs investigateurs dans le scénario. Chaque investigateur est présenté de manière neutre, ce qui signifie que les joueurs peuvent décider si leur personnage est masculin, féminin ou non binaire. Ils devront également leur trouver un nom.
 Enfin, s’ils utilisent les prétirés, les joueurs doivent déterminer la valeur de Chance de ces investigateurs. Ils doivent lancer 3D6 et multiplier le résultat par 5. Ils doivent ensuite encercler le chiffre approprié dans la case « Chance » de leur fiche de personnage.
 
-##### L'antiquaire
+##### L’antiquaire
 
 Ancien criminel, l’antiquaire a tourné la page après avoir été mêlé à des affaires douteuses qui ont failli le faire arrêter et emprisonner il y a quelques années. Il a récemment reçu une lettre d’un ancien complice, George Cassidy, gardien de phare sur Beacon Island. Ce dernier lui demande s’il était toujours dans le commerce des objets étranges et exotiques.
 
 * **Traits :** méfiant, prudent et fidèle jusqu’à un certain point, il a beaucoup à perdre si quelqu’un d’autre découvre qui ils étaient auparavant.
 * **Accroche :** découvrir dans quel genre d’ennuis s’est mis Cassidy cette fois-ci et voir s’ils ne peuvent pas le tirer d’affaire. Encore une fois.
 
-##### L'agent fédéral
+##### L’agent fédéral
 
 Actuellement en mission dans le Massachusetts pour surveiller toute activité illégale sur les routes maritimes fréquentées tout le long de la côte Est, l’agent spécial du Bureau des Investigations se rend à Rockport pour recevoir un briefing d’un confrère, Warren Thomas, actuellement sous couverture en tant que gardien de phare sous le nom d’emprunt de Michael Turner sur Beacon Island.
 
@@ -65,11 +65,11 @@ Le biologiste marin termine actuellement une thèse de recherche sur le fascinan
 * **Traits :** charmant, mais déterminé à prouver qu’il est autre chose qu’un joli minois.
 * **Accroche :** pour terminer sa thèse et peut-être trouver des preuves d’une nouvelle espèce marine… à qui il pourra donner son nom !
 
-##### L'artiste
+##### L’artiste
 
 Dans sa jeunesse, il sortait beaucoup et ne s’inquiètait pas de son avenir. L’artiste a maintenant trouvé sa véritable vocation et se rend à Rockport dans le cadre d’une tournée le long de la côte Est en quête d’inspiration pour ses peintures.
 
-* **Traits :** brillant et légèrement excentrique mais il est loin d'être idiot.
+* **Traits :** brillant et légèrement excentrique mais loin d’être idiot.
 * **Accroche :** a l’intention de trouver quelque chose qui susciterait sa passion artistique. Mais il devra garder l’esprit ouvert : on ne sait jamais quand l’inspiration va frapper, ni où !
 
 #### Moins de quatre joueurs ?
