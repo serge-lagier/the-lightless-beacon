@@ -17,14 +17,14 @@
 
 | Chapitre              | Intervenant                   | État                         |
 |-----------------------|-------------------------------|------------------------------|
-| Introduction          | Namour / Thibault             | Fait
-| Running the game      | Namour / Thibault             | Fait
-| Scenario overview     | Namour / Thibault             | Fait
-| Background            | Namour / Thibault             | Fait
+| Introduction          | Namour / Thibault / Laurendi  | Fait
+| Running the game      | Namour / Thibault / Laurendi  | Fait
+| Scenario overview     | Namour / Thibault / Laurendi  | Fait
+| Background            | Namour / Thibault / Laurendi  | Fait
 | Spending Luck         | Laurendi                      | En cours
-| Setting Up            | Namour / Thibault             | Fait
-| Start: Choppy Waters  | Namour / Thibault             | Fait
-| Dead Beacon           | Namour / Thibault             | Seconde Relecture en cours
+| Setting Up            | Namour / Thibault / Laurendi  | Fait
+| Start: Choppy Waters  | Namour / Thibault / Laurendi  | Fait
+| Dead Beacon           | Namour / Thibault / Laurendi  | Seconde Relecture en cours
 | Following Footprints  |                               |
 | Building Tension      | Namour                        | En cours
 | Insane Investigator   |                               |
