@@ -24,9 +24,9 @@
 | Spending Luck         | Laurendi                      | En cours
 | Setting Up            | Namour                        | Fait
 | Start: Choppy Waters  | Namour                        | Fait
-| Dead Beacon           | Namour                        | en cours
+| Dead Beacon           | Namour                        | Fait
 | Following Footprints  |                               |
-| Building Tension      |                               |
+| Building Tension      | Namour                        | En cours
 | Insane Investigator   |                               |
 | Lighthouse Cottage    |                               |
 | Amphibious Assault    |                               |
