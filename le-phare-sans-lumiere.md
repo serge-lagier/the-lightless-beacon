@@ -18,7 +18,7 @@ La **structure du scénario** (page 6) donne des suggestions sur la durée pour 
 
 Si vos joueurs veulent créer leurs propres investigateurs, c’est aussi très bien ! Assurez-vous de vous familiariser avec les types de compétences dont ils auront besoin pour tirer le meilleur parti de ce scénario et jetez un coup d’œil aux antécédents, l’historique des investigateurs prétirés pour obtenir des conseils sur la façon de lier les investigateurs nouvellement créés à l’histoire. En donnant à chacun des personnages une raison d’être là où ils se trouvent au début du scénario, les joueurs sont beaucoup plus susceptibles d’être motivés et de s’impliquer dans l’intrigue et, espérons-le, de s’amuser.
 
-Assurez-vous d’imprimer les fiches des enquêteurs (à partir de la page 30) avant de commencer et laissez les gens choisir celui qu’ils veulent jouer — cela les aidera également à s’impliquer dans l’histoire. À part ça, tout ce dont vous avez besoin, ce sont des dés, des crayons, de quoi prendre des notes, et vous êtes prêt à commencer !
+Assurez-vous d’imprimer les fiches des enquêteurs (à partir de la page 30) avant de commencer et laissez les gens choisir celui qu’ils veulent jouer — cela les aidera également à s’impliquer dans l’histoire. À part ça, tout ce dont vous avez besoin, ce sont des dés, des crayons, de quoi prendre des notes, et vous êtes prêts à commencer !
 
 ## APERÇU DU SCÉNARIO
 
