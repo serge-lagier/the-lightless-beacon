@@ -13,6 +13,10 @@
 
 * https://raw.githubusercontent.com/lraboteau/the-lightless-beacon/master/le-phare-sans-lumiere.md
 
+## Affichage en HTML
+
+* https://github.com/lraboteau/the-lightless-beacon/blob/master/le-phare-sans-lumiere.md
+
 ## Tableau d'intervention
 
 | Chapitre              | Intervenant                   | État                         |
